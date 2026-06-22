@@ -29,8 +29,8 @@ if [ -f "/Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_live_ingest.py" ]; 
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_triage_alerts.py
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_supply_matrix.py
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_staffing_matrix.py
+    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_inventory_log.py
 fi
-echo "--------------------------------------------------------------------------"
 echo "--------------------------------------------------------------------------"
 # Stage 05: International Telemetry Deep-Tech Calculations
 echo "--------------------------------------------------------------------------"
