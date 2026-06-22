@@ -28,7 +28,9 @@ if [ -f "/Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_live_ingest.py" ]; 
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_nhs_insulator.py
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_triage_alerts.py
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_supply_matrix.py
+    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_staffing_matrix.py
 fi
+echo "--------------------------------------------------------------------------"
 echo "--------------------------------------------------------------------------"
 # Stage 05: International Telemetry Deep-Tech Calculations
 echo "--------------------------------------------------------------------------"
@@ -36,9 +38,9 @@ echo "[STAGE 05/09] Executing Moonfra Satellite Orbital Tracking Specs..."
 echo "--------------------------------------------------------------------------"
 if [ -f "/Users/stuartbreakell/Desktop/Project_Echo/moonfra_orbital_tracker.py" ]; then
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Echo/moonfra_orbital_tracker.py
+    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Echo/moonfra_phase_equations.py
 fi
 echo "--------------------------------------------------------------------------"
-
 # Stage 06: Project Echo Simulation Diagnostics
 echo -n "[STAGE 06/09] Neutralizing Solar Flux Volatility... "
 echo "GREEN (287.50 SFU Stable)"
