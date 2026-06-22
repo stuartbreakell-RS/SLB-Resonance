@@ -25,10 +25,11 @@ echo "[STAGE 04/09] Initiating Project Vulcan NHS Ingestion & Triage Alerts..."
 echo "--------------------------------------------------------------------------"
 if [ -f "/Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_live_ingest.py" ]; then
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_live_ingest.py
+    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_nhs_insulator.py
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_triage_alerts.py
+    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Vulcan/vulcan_supply_matrix.py
 fi
 echo "--------------------------------------------------------------------------"
-
 # Stage 05: International Telemetry Deep-Tech Calculations
 echo "--------------------------------------------------------------------------"
 echo "[STAGE 05/09] Executing Moonfra Satellite Orbital Tracking Specs..."
