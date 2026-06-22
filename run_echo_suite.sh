@@ -34,11 +34,12 @@ echo "--------------------------------------------------------------------------
 echo "--------------------------------------------------------------------------"
 # Stage 05: International Telemetry Deep-Tech Calculations
 echo "--------------------------------------------------------------------------"
-echo "[STAGE 05/09] Executing Moonfra Satellite Orbital Tracking Specs..."
+echo "[STAGE 05/09] Executing Moonfra Satellite Carrier Phase-Lock Engine..."
 echo "--------------------------------------------------------------------------"
-if [ -f "/Users/stuartbreakell/Desktop/Project_Echo/moonfra_orbital_tracker.py" ]; then
-    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Echo/moonfra_orbital_tracker.py
-    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Echo/moonfra_phase_equations.py
+if [ -f "moonfra_phase_equations.py" ]; then
+    /usr/local/bin/python3 moonfra_phase_equations.py
+else
+    /usr/local/bin/python3 ~/Desktop/SLB-Resonance/moonfra_phase_equations.py
 fi
 echo "--------------------------------------------------------------------------"
 # Stage 06: Project Echo Simulation Diagnostics
