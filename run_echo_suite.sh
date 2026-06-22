@@ -61,9 +61,9 @@ echo "--------------------------------------------------------------------------
 if [ -f "/Users/stuartbreakell/Desktop/Project_Trisolaris/trisolaris_grid.py" ]; then
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Trisolaris/trisolaris_grid.py
     /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Trisolaris/salford_validation_solver.py
+    /usr/local/bin/python3 /Users/stuartbreakell/Desktop/Project_Trisolaris/trisolaris_reactance_calculator.py
 fi
 echo "--------------------------------------------------------------------------"
-
 # Stage 09: Local Desktop Launcher Verification
 echo -n "[STAGE 09/09] Verifying Local Wallpaper Menu Hook... "
 echo "GREEN (v1.0.7 Universal Core Active)"
