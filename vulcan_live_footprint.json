@@ -1,30 +1,26 @@
 [
     {
         "clinic_node": "Warrington Central",
-        "active_load_points": 145.0,
-        "bottleneck_index": 0.9667,
-        "priority_index": 1.015,
-        "allocated_mw_equiv": 3795.5
+        "active_load_points": 142.5,
+        "intake_stress_index": 1.8617,
+        "allocated_mw_equiv": 1745.31
     },
     {
         "clinic_node": "Salford Frontier",
-        "active_load_points": 122.0,
-        "bottleneck_index": 0.7625,
-        "priority_index": 0.7244,
-        "allocated_mw_equiv": 2320.1
+        "active_load_points": 118.9,
+        "intake_stress_index": 1.3215,
+        "allocated_mw_equiv": 1238.93
     },
     {
         "clinic_node": "Halton Urgent Care",
-        "active_load_points": 172.0,
-        "bottleneck_index": 1.2286,
-        "priority_index": 1.6586,
-        "allocated_mw_equiv": 8122.4
+        "active_load_points": 165.2,
+        "intake_stress_index": 3.5271,
+        "allocated_mw_equiv": 3306.64
     },
     {
         "clinic_node": "Cheshire East Hub",
-        "active_load_points": 131.0,
-        "bottleneck_index": 0.8733,
-        "priority_index": 0.9606,
-        "allocated_mw_equiv": 3512.6
+        "active_load_points": 134.0,
+        "intake_stress_index": 1.7568,
+        "allocated_mw_equiv": 1647.01
     }
 ]
