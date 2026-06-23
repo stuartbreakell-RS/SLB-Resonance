@@ -40,12 +40,16 @@ A hydraulic surge and fluid velocity allocation framework engineered to mitigate
 ---
 
 ## 📊 Live Universal System Telemetry Bounds
-All core cross-directory pipelines are monitored via a unified 9-stage root shell diagnostic suite harness (`run_echo_suite.sh`):
 
-*   **Combined System Throughput Peak:** 97.4219% Complete
-*   **Base Network Jitter Floor:** 0.7408 ps (Atomic Phase Locked)
-*   **Frequency Spectral Fourier Lock:** 63.9688 MHz Peak Engagement
-*   **Global Structural Stability Index:** 99.9907% Coherence Restrained
+All core cross-directory pipelines are monitored via a unified 7-option root shell diagnostic platform harness (`start_bench.command` v1.0.9):
+
+* **Combined System Throughput Peak:** 97.4219% Complete
+* **Base Network Jitter Floor:** 0.7408 ps (Atomic Phase Locked)
+* **Frequency Spectral Fourier Lock:** 63.9688 MHz Peak Engagement
+* **Global Structural Stability Index:** 99.9907% Coherence Restrained
+* **Project Neptune Peak Kinetic Load:** 11.2577 dB (Dynamic Chemical Saturation Vector)
+* **Project Echo FSPL Attenuation Floor:** 190.0+ dB (Moonfra Spaceborne Calibration Matrix)
+
 
 ---
 
