@@ -29,6 +29,14 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
 *   **Reactive Power Compensation:** Integrates live phase-angle velocity tracking (+0.0142 to -0.0163 rad) to absorb and stabilize reactive voltage fluctuations under heavy industrial draws.
 *   **Salford Thermodynamic Sag Validation Solver:** A mathematical validation model proving complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
 
+## 🌊 04. Project Neptune: UK Water Infrastructure Surge Calibration Matrix
+
+A hydraulic surge and fluid velocity allocation framework engineered to mitigate infrastructure overflow thresholds natively through phase stabilization.
+
+* **Dynamic Hydraulic Back-Pressure Dampening:** Ingests live JSON utility metrics to track localized pipe strain and execute real-time phase shift angles on downstream velocity doors.
+* **Compounding Chemical Density Scaling:** Integrates real-time chemical saturation variables directly into the fluid-load equations to calculate exact infrastructure stress spikes under heavy environmental strain.
+* **Fidelity Export Ledger:** Implements an automated, immutable CSV logging protocol (`neptune_fidelity_ledger.csv`) to record all audited system variations and valve adaptations with precise timestamps.
+
 ---
 
 ## 📊 Live Universal System Telemetry Bounds
