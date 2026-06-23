@@ -1,0 +1,20 @@
+[
+  {
+    "satellite_node": "Moonfra Carrier Alpha",
+    "carrier_frequency_ghz": 1.625,
+    "atmospheric_moisture_g_m3": 7.5,
+    "solar_flux_sfu": 150.0
+  },
+  {
+    "satellite_node": "Sovereign Orbit Node 2",
+    "carrier_frequency_ghz": 2.450,
+    "atmospheric_moisture_g_m3": 18.2,
+    "solar_flux_sfu": 285.5
+  },
+  {
+    "satellite_node": "North West Regional Array",
+    "carrier_frequency_ghz": 1.420,
+    "atmospheric_moisture_g_m3": 4.1,
+    "solar_flux_sfu": 95.0
+  }
+]
