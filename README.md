@@ -50,7 +50,67 @@ All core cross-directory pipelines are monitored via a unified 7-option root she
 * **Project Neptune Peak Kinetic Load:** 11.2577 dB (Dynamic Chemical Saturation Vector)
 * **Project Echo FSPL Attenuation Floor:** 190.0+ dB (Moonfra Spaceborne Calibration Matrix)
 
+---
 
+## 📂 Standalone Component Matrix
+
+All modules are decoupled, high-fidelity Python structures engineered to execute without enterprise dependencies.
+
+* **echo_ruby_formula.py** — Executes the core scaling math: `nR = (1 - μ) * ln(1 + f_sys / f_s)`.
+* **echo_signal_attenuation_matrix.py** — Multi-variable matrix computing real-time attenuation depths.
+* **echo_skin_waveguide.py** — Models boundary-layer fluid dynamics and superficial resistance paths.
+* **echo_space_telemetry.json** — Hard-coded structural configurations and planetary nodal coordinates.
+* **echo_stabilizer_patch.py** — Local stability override routine managing real-time system state convergence.
+* **echo_stabilizer.py** — Core phase-coherence balancing block preventing operational network drifts.
+* **echo_terminal_audit.py** — Background logging module maintaining strict verification trail parameters.
+* **echo_velocity_alerter.py** — Real-time velocity delta tracking threshold engine for surge detection.
+* **echo_weather_parser.py** — Automated environmental ingest parser tracking atmospheric variables.
+* **generate_comment_post.py** — Utility automation script managing external text layout configurations.
+* **generate_grid_plot.py** — Compiles raw phase and telemetry arrays into visual asset plots.
+* **moonfra_orbital_tracker.py** — DeepTech processing block resolving long-range spatial vector tracks.
+* **moonfra_phase_equations.py** — Mathematical layer establishing cross-medium wave propagation constants.
+* **moonfra_phase_stabilizer.py** — Actively holds coherent alignment across experimental vectors.
+* **neptune_live_footprint.json** — Active data state tracking real-time UK water system pressures.
+* **neptune_predictive_analysis.py** — Runs the 6-Hour Time-Series Surge Predictive Engine.
+* **neptune_surge_stabilization.py** — Executes fluid velocity balancing math for Project Neptune.
+* **repo_traffic_monitor.py** — Local analytics engine tracking repository interactions and download metrics.
+* **run_echo_suite.sh** — Master automation wrapper routing localized sub-module validation runs.
+* **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
+* **trisolaris_cosmos.py** — Simulates high-dimensional reactance variables for deep-grid tracking.
+* **trisolaris_grid.py** — Active network topology mapping script optimizing multi-node loads.
+* **trisolaris_master.py** — Master control script coordinating the entire Project Trisolaris suite.
+* **trisolaris_reactance_calc.py** — Computes ACSR transmission line reactance parameters natively.
+* **trisolaris_render.py** — Generates visual plots and diagrams for line clearance thresholds.
+* **trisolaris_trajectory_data.json** — Base array block housing multi-interval loading trends.
+* **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks programmatically.
+* **vulcan_core_mesh.py** — Maps regional healthcare inventory needs to eliminate scheduling friction.
+* **vulcan_hospital_allocator.py** — Routes physical healthcare assets based on incoming demand arrays.
+* **vulcan_inventory_log.py** — Secure transactional logging tracking systemic resource allocations.
+* **vulcan_live_footprint.json** — Live operational footprint matrix mapping active NHS pressure fields.
+* **vulcan_live_ingest.py** — Continuous JSON stream monitor ingesting localized clinic metrics.
+
+---
+
+## 🚀 Local Execution & Verification
+
+To initialize the 7-option root shell diagnostic platform harness and verify local system integrity:
+
+```bash
+chmod +x start_bench.command
+./start_bench.command
+```
+
+### ⚙️ Integrated System Menu Map (v1.1.0):
+
+When executing the harness, choose your operational coordinate `[1-7]` to route to the target pipeline:
+
+* **1) PROJECT ECHO** — Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
+* **2) PROJECT TRISOLARIS** — Runs the ACSR Transmission Line Reactance Calculator engine.
+* **3) PROJECT VULCAN** — Runs the Frontline Clinical Staffing Shortage Matrix tracker.
+* **4) PROJECT NEPTUNE** — Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
+* **5) NEPTUNE FORECAST** — Runs the 6-Hour Time-Series Surge Predictive Engine.
+* **6) GLOBAL STOREFRONT** — Launches the GitHub Desktop Synchronized Change Panel.
+* **7) EXIT BENCH** — Closes active console room run channels safely and locks the runway green.
 ---
 
 ## 🔒 Access & Evaluation Protocols
