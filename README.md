@@ -65,6 +65,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **echo_terminal_audit.py** — Background logging module maintaining strict verification trail parameters.
 * **echo_velocity_alerter.py** — Real-time velocity delta tracking threshold engine for surge detection.
 * **echo_weather_parser.py** — Automated environmental ingest parser tracking atmospheric variables.
+* **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris and Project Neptune.
 * **generate_comment_post.py** — Utility automation script managing external text layout configurations.
 * **generate_grid_plot.py** — Compiles raw phase and telemetry arrays into visual asset plots.
 * **moonfra_orbital_tracker.py** — DeepTech processing block resolving long-range spatial vector tracks.
@@ -88,6 +89,9 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **vulcan_inventory_log.py** — Secure transactional logging tracking systemic resource allocations.
 * **vulcan_live_footprint.json** — Live operational footprint matrix mapping active NHS pressure fields.
 * **vulcan_live_ingest.py** — Continuous JSON stream monitor ingesting localized clinic metrics.
+* **vulcan_live_ingest.py** — Continuous JSON stream monitor ingesting localised clinic metrics.
+* **vulcan_triage_alerts.py** — Autonomous incident alert sentinel managing multi-node regional NHS overloads.
+
 
 ---
 
