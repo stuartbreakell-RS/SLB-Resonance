@@ -122,7 +122,11 @@ Autonomous multi-physics engine bridging independent utility matrices to address
 - **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris (ACSR line thermal sag thresholds) and Project Neptune (hydraulic channel flow capacity metrics).
 - **Dynamic Variable Harmonisation** — Automatically processes localised network stress deltas over 19,589 diagnostic time-steps, natively enforcing a strict 99.9907% grid phase coherence standard while compressing micro-vibrational jitter floors down to 0.7434 ps under peak summer meteorological loads.
 
----
+### 🕹️ Interactive System Launch
+To run the full v1.1.0 multi-physics control panel and stream local grid trajectories, execute the global bootloader shortcut from your terminal:
+```bash
+./run.sh
+```
 
 ## 🔒 Access & Evaluation Protocols
 The underlying Python solvers, calculus engines, and master harness suites are open-source and structured for rigorous peer evaluation. All international satellite telemetry structures remain strictly bound under non-exclusive, asset-use restricted vendor licenses.
