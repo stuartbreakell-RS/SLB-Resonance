@@ -34,6 +34,13 @@ This charter outlines the formal framework for transitioning from local reposito
 ### ⚡ Project Trisolaris: ACSR Transmission Networks
 * **Application:** Overhead power line inductive reactance and catastrophic thermal sag mitigation.
 * **Mechanism:** Utilizes structural line mass as a dynamic thermal battery to restore grid capacity headroom natively.
+### 📊 Automated Multi-Physics Telemetry Generation
+To instantly cross-verify our sub-picosecond diagnostic jitter floors and ACSR conductor thermal sag containment envelopes without violating our Strict Zero Dribble Protocol, technical auditors can execute our native plotting module directly from the cloned workspace root:
+
+$ python generate_grid_plot.py
+
+This compiled routine generates an immediate dual-axis performance plot (`slb_v110_validation.png`), rendering transient stability metrics modeled under regional heatwave conditions for real-time validation checks.
+
 
 ---
 
