@@ -15,7 +15,7 @@ Conventional utility models, linear logistics tracking networks, and spaceborne 
 
 ### 🌌 01. Project Echo: Signal Tracking & Path Loss Engine
 Autonomous high-resolution spectral monitoring and spaceborne path tracking infrastructure.
-*   **Simpson's Rule Mesh Integration:** Executes real-time continuous area-integration over raw data streams to calculate absolute spaceborne decibel path loss constraints, holding operations secure above an absolute `-142.0 dBm` noise floor floor.
+*   **Simpson's Rule Mesh Integration:** Executes real-time continuous area-integration over raw data streams to calculate absolute spaceborne decibel path loss constraints, holding operations secure above an absolute `-142.0 dBm` noise floor.
 *   **Live Traffic Velocity Analytics:** Embedded conversion module tracking repository interaction depth, displaying a stable `66.95%` conversion velocity and a `62.03%` unique intent deployment footprint.
 
 ### 🏥 02. Project Vulcan: Frontline Clinical Intake Insulation Matrix
