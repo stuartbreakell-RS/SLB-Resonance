@@ -33,9 +33,12 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
 
 A hydraulic surge and fluid velocity allocation framework engineered to mitigate infrastructure overflow thresholds natively through phase stabilization.
 
-* **Dynamic Hydraulic Back-Pressure Dampening:** Ingests live JSON utility metrics to track localized pipe strain and execute real-time phase shift angles on downstream velocity doors.
-* **Compounding Chemical Density Scaling:** Integrates real-time chemical saturation variables directly into the fluid-load equations to calculate exact infrastructure stress spikes under heavy environmental strain.
-* **Fidelity Export Ledger:** Implements an automated, immutable CSV logging protocol (`neptune_fidelity_ledger.csv`) to record all audited system variations and valve adaptations with precise timestamps.
+  * **Dynamic Hydraulic Back-Pressure Damping:** Ingests live JSON utility metrics via `neptune_live_footprint.json` to track localized pipe strain and execute real-time phase shift angles.
+  * **Inverse Transient Anomaly Detection:** Deploys high-speed time-of-flight localization via `neptune_burst_sentinel.py` utilizing a rigid **1480.26 m/s acoustic waveguide speed** to pinpoint sub-surface structural cracks.
+  * **Pipeline Dynamics Stress Modulation:** Utilizes `neptune_scenario_generator.py` to automatically model sudden pump trips and volatile grid shifts up to **150.9 PSI** to stress-test regional infrastructure loops.
+  * **Fidelity Export Ledger:** Implements an automated, immutable CSV logging protocol (`neptune_fidelity_ledger.csv`) to record all audited system variations with precise timestamps.
+  * **Dual-Axis Physical Stress Plotting:** Coordinates structural safety charts through `neptune_predictive_analyzer.py` to map real-time pressure limits down to the exact decimal point.
+---
 
 ---
 
