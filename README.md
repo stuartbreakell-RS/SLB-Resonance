@@ -20,9 +20,9 @@ Autonomous high-resolution spectral monitoring and spaceborne path tracking infr
 
 ### 🏥 02. Project Vulcan: Frontline Clinical Intake Insulation Matrix
 A localized data resource-routing allocation framework built to shield frontline regional health units from structural waste.
-*   **Parabolic Triage Intake Mesh:** Runs a continuous 60-minute interval integration mesh across regional clinic metrics (Warrington, Salford, Halton, Cheshire East) to map cumulative incoming client pressure fields.
-*   **Incident Priority Triage Alerts:** Real-time JSON telemetry stream generator (`vulcan_live_footprint.json`) coupled to an autonomous notification alert loop that automatically dispatches emergency resource buffers the microsecond a node crosses its `1.15` structural bottleneck threshold.
-
+  * **Parabolic Triage Intake Mesh:** Runs a continuous 60-minute interval integration mesh across regional clinic metrics (Warrington, Salford, Halton, Cheshire East) to map cumulative incoming client pressure fields.
+  * **Incident Priority Triage Alerts:** Real-time JSON telemetry stream generator (`vulcan_live_footprint.json`) coupled to an autonomous notification alert loop that automatically dispatches emergency resource buffers the microsecond a node crosses its `1.15` structural bottleneck threshold.
+  * **Dynamic Emergency Resource Re-Balancing:** Deploys `vulcan_dynamic_balancer.py` to continuously audit active NHS intake channels, calculating precise resource deflection actions (e.g. routing **772.40 MW** and **1186.73 MW** emergency buffers) to insulate overloaded clinical networks from cascading failure.
 ### 📐 03. Project Trisolaris: Dynamic Power Grid & Validation Core
 Coupled thermodynamic multi-physics modeling for extreme load containment.
   * **12-Node Phase Engagement Dodecahedron Matrix:** Successfully restrains a dynamic `1200 MW to 1500 MW` asymmetric load surge profile across 12 pentagonal vectors under active uniform locks.
