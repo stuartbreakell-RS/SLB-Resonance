@@ -39,7 +39,7 @@ To instantly cross-verify our sub-picosecond diagnostic jitter floors and ACSR c
 
 $ python generate_grid_plot.py
 
-This compiled routine generates an immediate dual-axis performance plot (`slb_v110_validation.png`), rendering transient stability metrics modeled under regional heatwave conditions for real-time validation checks.
+This compiled routine generates an immediate dual-axis performance plot (slb_v110_validation.png), rendering transient stability metrics modeled under regional heatwave conditions for real-time validation checks.
 
 
 ---
