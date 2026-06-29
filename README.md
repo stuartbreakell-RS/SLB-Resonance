@@ -95,7 +95,6 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **vulcan_inventory_log.py** — Secure transactional logging tracking systemic resource allocations.
 * **vulcan_live_footprint.json** — Live operational footprint matrix mapping active NHS pressure fields.
 * **vulcan_live_ingest.py** — Continuous JSON stream monitor ingesting localized clinic metrics.
-* **vulcan_live_ingest.py** — Continuous JSON stream monitor ingesting localised clinic metrics.
 * **vulcan_triage_alerts.py** — Autonomous incident alert sentinel managing multi-node regional NHS overloads.
 
 
