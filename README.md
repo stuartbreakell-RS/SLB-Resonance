@@ -23,7 +23,7 @@ A localized data resource-routing allocation framework built to shield frontline
   * **Parabolic Triage Intake Mesh:** Runs a continuous 60-minute interval integration mesh across regional clinic metrics (Warrington, Salford, Halton, Cheshire East) to map cumulative incoming client pressure fields.
   * **Incident Priority Triage Alerts:** Real-time JSON telemetry stream generator (`vulcan_live_footprint.json`) coupled to an autonomous notification alert loop that automatically dispatches emergency resource buffers the microsecond a node crosses its `1.15` structural bottleneck threshold.
   * **Dynamic Emergency Resource Re-Balancing:** Deploys `vulcan_dynamic_balancer.py` to continuously audit active NHS intake channels, calculating precise resource deflection actions (e.g. routing **772.40 MW** and **1186.73 MW** emergency buffers) to insulate overloaded clinical networks from cascading failure.
-    * **Automated Clinical Intake Forecasting:** Deploys `vulcan_intake_forecaster.py` to ingest historical ledger records (`vulcan_shift_transfers.csv`) and run exponential momentum trend equations to pre-emptively flag bottleneck breaches 4 hours into the future.
+  * **Automated Clinical Intake Forecasting:** Deploys 'vulcan_shift_transfers.py' to ingest historical ledger records (`vulcan_shift_transfers.csv`) and run exponential momentum trend equations to pre-emptively flag bottleneck breaches 4 hours into the future.
 
 ### 📐 03. Project Trisolaris: Dynamic Power Grid & Validation Core
 Coupled thermodynamic multi-physics modeling for extreme load containment.
@@ -37,7 +37,7 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
 A hydraulic surge and fluid velocity allocation framework engineered to mitigate infrastructure overflow thresholds natively through phase stabilization.
 
   * **Dynamic Hydraulic Back-Pressure Damping:** Ingests live JSON utility metrics via `neptune_live_footprint.json` to track localized pipe strain and execute real-time phase shift angles.
-  * **Inverse Transient Anomaly Detection:** Deploys high-speed time-of-flight localization via `neptune_burst_sentinel.py` utilizing a rigid **1480.26 m/s acoustic waveguide speed** to pinpoint sub-surface structural cracks.
+  * **Inverse Transient Anomaly Detection:** Deploys high-speed time-of-flight localization via 'neptune_transient_solver.py' utilizing a rigid **1480.26 m/s acoustic waveguide speed** to pinpoint sub-surface structural cracks.
   * **Pipeline Dynamics Stress Modulation:** Utilizes `neptune_scenario_generator.py` to automatically model sudden pump trips and volatile grid shifts up to **150.9 PSI** to stress-test regional infrastructure loops.
   * **Fidelity Export Ledger:** Implements an automated, immutable CSV logging protocol (`neptune_fidelity_ledger.csv`) to record all audited system variations with precise timestamps.
   * **Dual-Axis Physical Stress Plotting:** Coordinates structural safety charts through `neptune_predictive_analyzer.py` to map real-time pressure limits down to the exact decimal point.

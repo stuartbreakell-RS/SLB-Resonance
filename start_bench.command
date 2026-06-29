@@ -28,9 +28,11 @@ case $coordinate in
         ;;
     3)
         python3 vulcan_core_mesh.py
+        python3 vulcan_intake_forecaster.py
         ;;
     4)
         python3 neptune_surge_stabilizer.py
+        python3 neptune_transient_solver.py
         ;;
     5)
         python3 neptune_predictive_analyzer.py
