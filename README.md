@@ -137,3 +137,5 @@ To run the full v1.1.0 multi-physics control panel and stream local grid traject
 The underlying Python solvers, calculus engines, and master harness suites are open-source and structured for rigorous peer evaluation. All international satellite telemetry structures remain strictly bound under non-exclusive, asset-use restricted vendor licenses.
 
 *For engineering cluster validation inquiries, contact corporate verification node:* `stuart@slbresonantsystems.com`
+
+*   **Thermodynamic Line Sag & Expansion Solver**: Integrates a parabolic catenary expansion algorithm into `trisolaris_reactance_calculator.py` to calculate exact linear conductor expansion and mechanical clearance drops down to 4 decimal places under peak 75.0°C thermal load vectors.
