@@ -80,6 +80,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **neptune_live_footprint.json** — Active data state tracking real-time UK water system pressures.
 * **neptune_predictive_analysis.py** — Runs the 6-Hour Time-Series Surge Predictive Engine.
 * **neptune_surge_stabilization.py** — Executes fluid velocity balancing math for Project Neptune.
+* **neptune_infiltration_mesh.py** — Calculates active volumetric rainfall infiltration coefficients to dynamically re-calibrate subsurface acoustic waveguide propagation velocity across regional assets.
 * **repo_traffic_monitor.py** — Local analytics engine tracking repository interactions and download metrics.
 * **run_echo_suite.sh** — Master automation wrapper routing localized sub-module validation runs.
 * **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
