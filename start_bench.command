@@ -8,7 +8,6 @@
 cd "$(dirname "$0")"
 
 clear
-echo "  * 2) PROJECT TRISOLARIS  - Run ACSR Transmission Line Reactance Calculator"
 echo "======================================================================"
 echo "          SLB RESONANT SYSTEMS - INTEGRATED RUNTIME PLATFORM          "
 echo "  NODE: THE NORTH WEST, UK // USER: STUART BREAKELL // VERSION: 1.1.0  "
@@ -26,7 +25,9 @@ echo "6) Project Neptune Predict   [neptune_predictive_analyzer.py]"
 echo "7) Dev Deployment Environment [Open GitHub Desktop]"
 echo "8) Terminate Console Session [Exit]"
 echo "----------------------------------------------------------------------"
-read -p "Enter Target Coordinate Selection [1-8]: " coordinate
+echo "----------------------------------------------------------------------"
+echo -n "Enter Target Coordinate Selection [1-8]: "
+read coordinate
 
 case $coordinate in
     1)
