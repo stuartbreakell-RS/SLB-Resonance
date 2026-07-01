@@ -35,7 +35,7 @@ This charter outlines the formal framework for transitioning from local reposito
 * **Application:** Overhead power line inductive reactance and catastrophic thermal sag mitigation.
 * **Mechanism:** Utilizes structural line mass as a dynamic thermal battery to restore grid capacity headroom natively.
 ### 📊 Automated Multi-Physics Telemetry Generation
-To instantly cross-verify our sub-picosecond diagnostic jitter floors and ACSR conductor thermal sag containment envelopes without violating our Strict Zero Dribble Protocol, technical auditors can execute our native plotting module directly from the cloned workspace root:
+To instantly cross-verify our sub-picosecond diagnostic jitter floors and ACSR conductor thermal sag containment envelopes without violating our Strict Protocols, technical auditors can execute our native plotting module directly from the cloned workspace root:
 
 $ python generate_grid_plot.py
 
@@ -44,7 +44,7 @@ This compiled routine generates an immediate dual-axis performance plot (slb_v11
 
 ---
 
-## 🛡️ The Sovereign Iron Rule
+## 🛡️ The Sovereign Rule
 Under our strict operational protocol, SLB Resonant Systems operates on an **Outputs-Only** delivery matrix. Zero underlying multi-physics source code, raw mathematical tensors, or Python execution environments are distributed to external networks. Enterprise clients receive pure, cryptographically secure optimization licenses delivered directly to operational command dashboards to protect proprietary mechanics.
 
 ---
