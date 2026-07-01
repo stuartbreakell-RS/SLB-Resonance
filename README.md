@@ -127,28 +127,23 @@ Autonomous multi-physics engine bridging independent utility matrices to address
 - **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris (ACSR line thermal sag thresholds) and Project Neptune (hydraulic channel flow capacity metrics).
 - **Dynamic Variable Harmonisation** — Automatically processes localised network stress deltas over 19,589 diagnostic time-steps, natively enforcing a strict 99.9907% grid phase coherence standard while compressing micro-vibrational jitter floors down to 0.7408 ps under peak summer meteorological loads.
 
-### 🕹️ Interactive System Launch
-To run the full v1.1.0 multi-physics control panel and stream local grid trajectories, execute the global bootloader shortcut from your terminal:
-```bash
-./run.sh
-```
+### ⚙️ Integrated System Menu Map (v1.1.0):
+
+*   **Coordinate 1 // Advanced Core Signal Array**
+*   **Coordinate 2 // Project Trisolaris Base**
+*   **Coordinate 3 // Project Trisolaris Weather Mesh Pass** 🔥
+*   **Coordinate 4 // Project Vulcan Core Stack**
+*   **Coordinate 5 & 6 // Hydraulic Surge & Transient Registry**
+*   **Coordinate 7 // Dev Deployment Environment**
+*   **Coordinate 8 // Terminate Console Session**
+
+---
 
 ## 🔒 Access & Evaluation Protocols
-The underlying Python solvers, calculus engines, and master harness suites are open-source and structured for rigorous peer evaluation. All international satellite telemetry structures remain strictly bound under non-exclusive, asset-use restricted vendor licenses.
 
-*For engineering cluster validation inquiries, contact corporate verification node:* `stuart@slbresonantsystems.com`
+The underlying Python solvers, calculus engines, and master harness suites are structured for rigorous peer evaluation.
 
-*   **Thermodynamic Line Sag & Expansion Solver**: Integrates a parabolic catenary expansion algorithm into `trisolaris_reactance_calculator.py` to calculate exact linear conductor expansion and mechanical clearance drops down to 4 decimal places under peak 75.0°C thermal load vectors.
-
-* **Coordinate 2 // Thermodynamic Line Sag & Expansion Solver**: Integrates a parabolic catenary expansion algorithm into `trisolaris_reactance_calculator.py` to calculate exact linear conductor expansion and mechanical clearance drops down to 4 decimal places under peak thermal load vectors.
-
-* **Coordinate 3 // Environmental Weather Mesh Pass** 🔥 *NEW*: Connects dynamic atmospheric data streams (`trisolaris_weather_mesh.py`) including wind velocity, solar flux, and ambient temperature layers directly to thermal core load coefficients to isolate real-time grid impedance degradation.
-
-* **Coordinate 4 // Frontier Healthcare & Triage Mesh Stack**: Drives non-linear wave packet solvers within `vulcan_core_mesh.py` and `vulcan_intake_forecaster.py` to continuously balance frontline capacity shifts and model 4-hour forward trend horizons.
-
-* **Coordinate 5 & 6 // Hydraulic Surge & Transient Registry**: Leverages acoustic wave velocity transformations (1480.26 m/s) across regional utility conduits to trace structural metric anomalies via `neptune_transient_solver.py` and predict long-term fluid distribution stress.
-
-* **Registry Concurrency Integrity Pass**: Deploys `verify_ledger_integrity.py` to cross-reference the physical allocation states of all underlying Track 01 and Track 02 code modules and CSV transaction log ledgers, enforcing absolute path alignment before cloud deployments.
+*For engineering cluster validation inquiries, contact the regional contractor verification node: stuart@slbresonantsystems.com*
 
 ---
 *Strict, high-fidelity engineering parameters. Intellectual Property protected under sovereign asset-use restrictions.*
