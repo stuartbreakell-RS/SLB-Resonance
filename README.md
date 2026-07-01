@@ -60,43 +60,91 @@ All core cross-directory pipelines are monitored via a unified 7-option root she
 
 ## 📂 Standalone Component Matrix
 
+## 📂 Standalone Component Matrix
+
 All modules are decoupled, high-fidelity Python structures engineered to execute without enterprise dependencies.
 
+### 🎛️ Platform Automation Core
+* **COMMERCIAL_ENGAGEMENT.md** — Framework boundaries for commercial intake profiles.
+* **LICENSE.md** — Standard system asset utilization governance lock.
+* **start_bench.command** — Automated central multi-coordinate launcher suite platform.
+* **run.sh** — Secondary backup bash infrastructure process script.
+* **run_echo_suite.sh** — Master automation wrapper routing localized sub-module validation runs.
+* **verify_ledger_integrity.py** — Multi-database cross-reference path verification script.
+* **repo_traffic_monitor.py** — Local analytics engine tracking repository interactions and download metrics.
+* **generate_comment_post.py** — Utility automation script managing external text layout configurations.
+* **generate_comment_payload.py** — Content pipeline management engine for broadcasting scorecards.
+* **generate_grid_plot.py** — Compiles raw phase and telemetry arrays into visual asset plots.
+* **slb_v110_validation.png** — System configuration diagnostic validation plot.
+
+### 🌌 Project Echo Modules (Signal Tracking & Path Loss)
+* **echo_advanced_visualizer.py** — Multi-variable matrix computing real-time attenuation depths.
+* **echo_alerter.py** — Threshold tracking event alarm dispatch generator.
+* **echo_cleaner.py** — Signal filter pipeline eliminating transient data artifacts.
+* **echo_delta_tracker.py** — Phase offset drift and coordinate step identifier.
+* **echo_infrasound_monitor.py** — Sub-surface structural acoustic low-frequency wave tracking.
+* **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris and Project Neptune.
+* **echo_jammer.py** — Active noise containment matrix for secure parameter testing.
+* **echo_live.py** — Active real-time multi-threaded streaming telemetry layer.
+* **echo_noaa_grabber.py** — Automatic ingestion module parsing external atmospheric weather grids.
+* **echo_parser.py** — Data stream packet interpreter and hexadecimal block encoder.
+* **echo_pulsar_clock.py** — Time-base sync coordinator mapped directly to stellar tracking datasets.
+* **echo_receiver.py** — Phase-locked spectral reception routing block.
+* **echo_rf_scanner.py** — Autonomous background electromagnetic frequency scanner array.
 * **echo_ruby_formula.py** — Executes the core scaling math: `nR = (1 - μ) * ln(1 + f_sys / f_s)`.
 * **echo_signal_attenuation_matrix.py** — Multi-variable matrix computing real-time attenuation depths.
 * **echo_skin_waveguide.py** — Models boundary-layer fluid dynamics and superficial resistance paths.
 * **echo_space_telemetry.json** — Hard-coded structural configurations and planetary nodal coordinates.
-* **echo_stabilizer_patch.py** — Local stability override routine managing real-time system state convergence.
 * **echo_stabilizer.py** — Core phase-coherence balancing block preventing operational network drifts.
+* **echo_stabilizer_patch.py** — Local stability override routine managing real-time system state convergence.
 * **echo_terminal_audit.py** — Background logging module maintaining strict verification trail parameters.
 * **echo_velocity_alerter.py** — Real-time velocity delta tracking threshold engine for surge detection.
 * **echo_weather_parser.py** — Automated environmental ingest parser tracking atmospheric variables.
-* **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris and Project Neptune.
-* **generate_comment_post.py** — Utility automation script managing external text layout configurations.
-* **generate_grid_plot.py** — Compiles raw phase and telemetry arrays into visual asset plots.
+* **test_ruby_core.py** — Validation test rig confirming formula scaling bounds.
 * **moonfra_orbital_tracker.py** — DeepTech processing block resolving long-range spatial vector tracks.
 * **moonfra_phase_equations.py** — Mathematical layer establishing cross-medium wave propagation constants.
 * **moonfra_phase_stabilizer.py** — Actively holds coherent alignment across experimental vectors.
-* **neptune_live_footprint.json** — Active data state tracking real-time UK water system pressures.
-* **neptune_predictive_analysis.py** — Runs the 6-Hour Time-Series Surge Predictive Engine.
-* **neptune_surge_stabilization.py** — Executes fluid velocity balancing math for Project Neptune.
-* **neptune_infiltration_mesh.py** — Calculates active volumetric rainfall infiltration coefficients to dynamically re-calibrate subsurface acoustic waveguide propagation velocity across regional assets.
-* **repo_traffic_monitor.py** — Local analytics engine tracking repository interactions and download metrics.
-* **run_echo_suite.sh** — Master automation wrapper routing localized sub-module validation runs.
-* **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
+
+### 📐 Project Trisolaris Modules (Grid & Energy)
 * **trisolaris_cosmos.py** — Simulates high-dimensional reactance variables for deep-grid tracking.
 * **trisolaris_grid.py** — Active network topology mapping script optimizing multi-node loads.
+* **trisolaris_interface.py** — Front-end telemetry screen panel controller dashboard.
+* **trisolaris_load_parser.py** — High-speed grid transaction and load stream parser.
 * **trisolaris_master.py** — Master control script coordinating the entire Project Trisolaris suite.
-* **trisolaris_reactance_calc.py** — Computes ACSR transmission line reactance parameters natively.
+* **trisolaris_reactance_calculator.py** — Computes ACSR transmission line reactance parameters natively.
 * **trisolaris_render.py** — Generates visual plots and diagrams for line clearance thresholds.
+* **trisolaris_thermal_envelope.py** — Calculates thermodynamic physical expansion under solar flux.
 * **trisolaris_trajectory_data.json** — Base array block housing multi-interval loading trends.
+* **trisolaris_weather_mesh.py** — Micro-climate thermodynamic energy balance and catenary sag solver.
+* **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks programmatically.
+
+### 🏥 Project Vulcan Modules (Frontline Clinical Logistics)
+* **vulcan_allocation_matrix.py** — Handles multi-facility medical staffing and resource priority queues.
 * **vulcan_core_mesh.py** — Maps regional healthcare inventory needs to eliminate scheduling friction.
+* **vulcan_dynamic_balancer.py** — Active deflection engine adjusting regional medical unit paths.
 * **vulcan_hospital_allocator.py** — Routes physical healthcare assets based on incoming demand arrays.
+* **vulcan_intake_forecaster.py** — Time-series 4-hour forward shift trend forecaster.
 * **vulcan_inventory_log.py** — Secure transactional logging tracking systemic resource allocations.
 * **vulcan_live_footprint.json** — Live operational footprint matrix mapping active NHS pressure fields.
 * **vulcan_live_ingest.py** — Continuous JSON stream monitor ingesting localized clinic metrics.
+* **vulcan_nhs_insulator.py** — Structural bottleneck shield engine managing clinic stress bounds.
+* **vulcan_predictive_engine.py** — Polynomial capacity projection kernel estimating arrival waves.
+* **vulcan_secure_envelope.py** — Encrypted local data lock layer managing personal information fields.
+* **vulcan_shift_transfers.csv** — Historical transaction ledger records for clinical unit trends.
+* **vulcan_staffing_matrix.py** — Optimization engine calculating shift allocation distributions.
+* **vulcan_supply_matrix.py** — Logistic balancing matrix managing material tracking pipelines.
 * **vulcan_triage_alerts.py** — Autonomous incident alert sentinel managing multi-node regional NHS overloads.
+
+### 🌊 Project Neptune Modules (Hydraulic Stabilization)
+* **neptune_burst_sentinel.py** — Autonomous rapid pipe burst indicator and flow pressure tracker.
+* **neptune_fidelity_ledger.csv** — Immutable data storage mapping volumetric utility changes.
+* **neptune_live_footprint.json** — Active data state tracking real-time UK water system pressures.
+* **neptune_predictive_analyzer.py** — Runs the 6-Hour Time-Series Surge Predictive Engine.
+* **neptune_scenario_generator.py** — Stress-test suite modeling pump trips and high PSI surges.
+* **neptune_surge_stabilizer.py** — Executes fluid velocity balancing math for Project Neptune.
+* **neptune_transient_solver.py** — High-speed acoustic time-of-flight crack locator.
+* **neptune_infiltration_mesh.py** — Calculates active volumetric rainfall infiltration coefficients to dynamically re-calibrate subsurface acoustic waveguide propagation velocity across regional assets.
 
 
 ---
