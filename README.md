@@ -117,6 +117,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **trisolaris_weather_mesh.py** — Micro-climate thermodynamic energy balance and catenary sag solver.
 * **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks programmatically.
+* **trisolaris_triad_surcharge_optimizer.py** — Computes financial network penalty exposure indexes during peak grid load windows.
 
 ### 🏥 Project Vulcan Modules (Frontline Clinical Logistics)
 * **vulcan_allocation_matrix.py** — Handles multi-facility medical staffing and resource priority queues.
@@ -145,6 +146,8 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **neptune_surge_stabilizer.py** — Executes fluid velocity balancing math for Project Neptune.
 * **neptune_transient_solver.py** — High-speed acoustic time-of-flight crack locator.
 * **neptune_infiltration_mesh.py** — Calculates active volumetric rainfall infiltration coefficients to dynamically re-calibrate subsurface acoustic waveguide propagation velocity across regional assets.
+* **neptune_amp8_compliance_sentinel.py** — Processes real-time conduit structural strain data to flag asset regulatory liabilities.
+
 
 
 ---
