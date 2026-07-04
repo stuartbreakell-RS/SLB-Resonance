@@ -35,6 +35,8 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
   * **Salford Thermodynamic Sag Validation Solver:** A mathematical validation model proving complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
   * **Thermodynamic Conductor Envelope Forecasting:** Deploys `trisolaris_thermal_envelope.py` to calculate structural physical expansion factors up to **1.001500** under simulated 34.5°C peak heatwave loads.
   * **Trajectory Load Coefficient Parsing:** Utilizes `trisolaris_load_parser.py` to ingest **1,000-interval real-time grid telemetry streams** to calculate precise reactive impedance constraints down to `0.006842 Ohms/km`.
+  - **National Grid Constraint Optimisation Matrix:** Deploys `uk_grid_constraint_optimiser.py` to evaluate dynamic transmission boundary congestion ratios against rigid 1,500 MW corridor thresholds, tracking multi-million-pound system constraint surcharges.
+
 ## 🌊 04. Project Neptune: UK Water Infrastructure Surge Calibration Matrix
 
 A hydraulic surge and fluid velocity allocation framework engineered to mitigate infrastructure overflow thresholds natively through phase stabilization.
@@ -122,6 +124,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks programmatically.
 * **trisolaris_triad_surcharge_optimizer.py** — Computes financial network penalty exposure indexes during peak grid load windows.
+* **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks and boundary phase-angle drift programmatically.
 
 ### 🏥 Project Vulcan Modules (Frontline Clinical Logistics)
 * **vulcan_allocation_matrix.py** — Handles multi-facility medical staffing and resource priority queues.
