@@ -30,9 +30,10 @@ case $coordinate in
         ./run_echo_suite.sh
         ;;
     2)
-        echo "[⚡] ENGAGING PROJECT TRISOLARIS MODE..."
+        echo "[⚡] ENGAGING PROJECT TRISOLARIS ENGINE & SOVEREIGN INSULATOR..."
         python3 trisolaris_reactance_calculator.py
         python3 trisolaris_triad_surcharge_optimizer.py
+        python3 slb_sovereign_risk_insulator.py
         ;;
     3)
         echo "[🏥] ENGAGING PROJECT VULCAN MODE..."
