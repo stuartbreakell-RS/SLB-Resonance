@@ -135,7 +135,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **vulcan_staffing_matrix.py** — Optimization engine calculating shift allocation distributions.
 * **vulcan_supply_matrix.py** — Logistic balancing matrix managing material tracking pipelines.
 * **vulcan_triage_alerts.py** — Autonomous incident alert sentinel managing multi-node regional NHS overloads.
-
+- **Clinical Triage Entropy Fuser Engine:** Deploys `vulcan_triage_entropy_fuser.py` to evaluate real-time ambulance pressure wave surges against frontline clinical staffing densities, generating Shannon-style flow entropy metrics to isolate systemic bottlenecks prior to regional redline failures.
 ### 🌊 Project Neptune Modules (Hydraulic Stabilization)
 - **AMP8 Compliance Sentinel Engine:** Deploys `neptune_amp8_compliance_sentinel.py` to evaluate transient pressure variations up to **150.9 PSI**, calculating corporate financial liability boundaries under active regulatory frameworks.
 * **neptune_burst_sentinel.py** — Autonomous rapid pipe burst indicator and flow pressure tracker.
