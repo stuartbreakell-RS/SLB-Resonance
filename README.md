@@ -104,6 +104,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **moonfra_phase_stabilizer.py** — Actively holds coherent alignment across experimental vectors.
 
 ### 📐 Project Trisolaris Modules (Grid & Energy)
+- **TNUoS Triad & Surcharge Optimization Matrix:** Deploys `trisolaris_triad_surcharge_optimizer.py` to couple Joule heating line expansion models directly to real-time industrial draws, projecting commercial network penalties (e.g. tracking **£7,139,043.00** risk exposures) under extreme heatwave loading surges.
 * **trisolaris_cosmos.py** — Simulates high-dimensional reactance variables for deep-grid tracking.
 * **trisolaris_grid.py** — Active network topology mapping script optimizing multi-node loads.
 * **trisolaris_interface.py** — Front-end telemetry screen panel controller dashboard.
@@ -135,6 +136,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **vulcan_triage_alerts.py** — Autonomous incident alert sentinel managing multi-node regional NHS overloads.
 
 ### 🌊 Project Neptune Modules (Hydraulic Stabilization)
+- **AMP8 Compliance Sentinel Engine:** Deploys `neptune_amp8_compliance_sentinel.py` to evaluate transient pressure variations up to **150.9 PSI**, calculating corporate financial liability boundaries under active regulatory frameworks.
 * **neptune_burst_sentinel.py** — Autonomous rapid pipe burst indicator and flow pressure tracker.
 * **neptune_fidelity_ledger.csv** — Immutable data storage mapping volumetric utility changes.
 * **neptune_live_footprint.json** — Active data state tracking real-time UK water system pressures.
