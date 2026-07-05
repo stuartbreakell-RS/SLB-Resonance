@@ -12,7 +12,7 @@ def run_platform_integrity_pass():
     # --- FULLY COMBINED CRITICAL FILE REPOSITORY ---
     # Tracks the exact files required for your public and private platform switches
     critical_registry = [
-        "master_skunkworks_kernel.py",
+        "patch_neptune_transient.py",
         "trisolaris_reactance_calculator.py",
         "vulcan_core_mesh.py",
         "vulcan_shift_transfers.py",
@@ -21,6 +21,7 @@ def run_platform_integrity_pass():
         "vulcan_shift_transfers.csv",
         "neptune_fidelity_ledger.csv",
         "README.md"
+    ]
     ]
     
     local_root = os.path.dirname(os.path.abspath(__file__))
