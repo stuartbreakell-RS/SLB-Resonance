@@ -41,9 +41,10 @@ case $coordinate in
         python3 vulcan_shift_transfers.py
         ;;
     4)
-        echo "[🌊] ENGAGING PROJECT NEPTUNE MODE..."
+        echo "[⚡] ENGAGING PROJECT NEPTUNE MODE..."
         python3 neptune_surge_stabilizer.py
         python3 neptune_transient_solver.py
+        python3 patch_neptune_transient.py
         ;;
     5)
         echo "[🌊] ENGAGING NEPTUNE FORECAST MODE..."

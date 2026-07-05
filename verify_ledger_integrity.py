@@ -22,7 +22,6 @@ def run_platform_integrity_pass():
         "neptune_fidelity_ledger.csv",
         "README.md"
     ]
-    ]
     
     local_root = os.path.dirname(os.path.abspath(__file__))
     print(f"[*] Executing Integrity Check Natively Within: {local_root}")
