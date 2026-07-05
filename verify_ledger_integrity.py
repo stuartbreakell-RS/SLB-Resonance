@@ -13,6 +13,8 @@ def run_platform_integrity_pass():
     # Tracks the exact files required for your public and private platform switches
     critical_registry = [
         "patch_neptune_transient.py",
+        "neptune_boundary_velocity.py",
+        "neptune_cavitation_sentinel.py",
         "trisolaris_reactance_calculator.py",
         "vulcan_core_mesh.py",
         "vulcan_shift_transfers.py",
