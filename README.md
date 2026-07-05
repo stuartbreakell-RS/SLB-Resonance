@@ -158,7 +158,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **neptune_transient_solver.py** — High-speed acoustic time-of-flight crack locator.
 * **neptune_infiltration_mesh.py** — Calculates active volumetric rainfall infiltration coefficients to dynamically re-calibrate subsurface acoustic waveguide propagation velocity across regional assets.
 * **neptune_amp8_compliance_sentinel.py** — Processes real-time conduit structural strain data to flag asset regulatory liabilities.
-* `patch_neptune_transient.py` — v1.1.0 transient phase-stabilisation engine executing real-time counter-phase damping angles (-2.6395 rad) to neutralise pipeline surge volatility.
+* **patch_neptune_transient.py** — v1.1.0 transient phase-stabilisation engine executing real-time counter-phase damping angles (-2.6395 rad) to neutralise pipeline surge volatility.
 
 ---
 
