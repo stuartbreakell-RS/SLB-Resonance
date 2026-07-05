@@ -14,7 +14,7 @@ This charter outlines the formal framework for transitioning from local reposito
 * **Commercial Metric:** Flat-fee local data evaluation retainer fixed at **£7,500**.
 * **Delivery:** Secure local terminal execution report and hard proof of a verified 15% to 20% consumption floor or capacity headroom recovery before live integration begins.
 
-### 2. Phase 1: Sovereign Infrastructure Licensing (Operational Integration)
+### 2. Phase 1: Infrastructure Licensing (Operational Integration)
 * **Scope:** Production deployment of optimized modules across active operational nodes.
 * **Parameters:** Permanent multi-physics software deployment license fixed at **£35,000** per active asset node. Strictly bound by our non-exclusive, asset-use restricted licensing architecture.
 * **Integration:** Standalone, decoupled Python integration avoiding enterprise software dependencies or legacy environment friction. Delivered directly to operational command dashboards.
