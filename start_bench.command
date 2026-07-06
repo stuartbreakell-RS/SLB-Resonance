@@ -66,10 +66,7 @@ case $coordinate in
 		echo "[🟢] Safe Terminal Room Shutdown. Runway locked green."
 		exit 0
 		;;
-        echo "[⚠️] Invalid coordinate selection."
-        ;;
+	*)
+		echo "[⚠️] Invalid coordinate selection."
+		;;
 esac
-
-echo "=========================================================================="
-echo "Process execution complete."
-echo "=========================================================================="
