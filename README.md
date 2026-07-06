@@ -59,7 +59,7 @@ A hydraulic surge and fluid velocity allocation framework engineered to mitigate
  * **9.2 kHz Manifold Resonance Interception:** Isolates turbulent flow velocities up to `108.44 m/s` to eliminate structural high-frequency acoustic jitter profiles before physical pipework micro-fracturing.
  * **Transient Cavitation Sentinel:** Algorithmic pressure-wave damping layers that suppress pump-induced shockwaves natively via software, stabilizing the grid manifold system.
 
- ### ─── 🚅 06. Project Chronos: High-Speed Rail Catenary Wave Damping Matrix ───
+ ### 🚅 06. Project Chronos: High-Speed Rail Catenary Wave Damping Matrix ───
 
 Coupled structural-aerodynamic mechanical wave tracking for high-velocity transit networks.
 
