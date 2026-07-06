@@ -50,7 +50,7 @@ A hydraulic surge and fluid velocity allocation framework engineered to mitigate
   * **Dual-Axis Physical Stress Plotting:** Coordinates structural safety charts through `neptune_predictive_analyzer.py` to map real-time pressure limits down to the exact decimal point.
   * **Transient Phase-Stabilisation Engine:** Deploys `patch_neptune_transient.py` to execute real-time counter-phase damping angles (`-2.6395 rad`) to neutralise pipeline surge volatility at the Asda Omega South node.
 
-### ─── 05. Project Helios: Data Centre Thermal-Acoustic Resonance Suppression Matrix ───
+### ☀️ 05. Project Helios: Data Centre Thermal-Acoustic Resonance Suppression Matrix ───
 
  Coupled thermal-hydraulic multi-physics modeling for extreme density cloud infrastructure containment.
 
@@ -197,14 +197,15 @@ Autonomous multi-physics engine bridging independent utility matrices to address
 
 - **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris (ACSR line thermal sag thresholds) and Project Neptune (hydraulic channel flow capacity metrics).
 - **Dynamic Variable Harmonisation** — Automatically processes localised network stress deltas over 19,589 diagnostic time-steps, natively enforcing a strict 99.9907% grid phase coherence standard while compressing micro-vibrational jitter floors down to 0.7408 ps under peak summer meteorological loads.
-
-### ⚙️ Integrated System Menu Map (v1.1.0):
+* **Thermal-Hydraulic Grid Optimization:** Intercepts peak silicon load spikes from Project Helios and cross-references localized utility grid constraints to safely throttle or redistribute multi-megawatt computing surges natively via software.
+### ─── Integrated System Coordinate Map (v1.1.0) ───
 
 *   **Coordinate 1 // Advanced Core Signal Array**
 *   **Coordinate 2 // Project Trisolaris Base**
 *   **Coordinate 3 // Project Trisolaris Weather Mesh Pass** 🔥
 *   **Coordinate 4 // Project Vulcan Core Stack**
-*   **Coordinate 5 & 6 // Hydraulic Surge & Transient Registry**
+*   **Coordinate 5 // Project Neptune Hydraulic Surge Registry**
+*   **Coordinate 6 // Project Helios Thermal-Acoustic Containment**
 *   **Coordinate 7 // Dev Deployment Environment**
 *   **Coordinate 8 // Terminate Console Session**
 
