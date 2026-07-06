@@ -59,6 +59,15 @@ A hydraulic surge and fluid velocity allocation framework engineered to mitigate
  * **9.2 kHz Manifold Resonance Interception:** Isolates turbulent flow velocities up to `108.44 m/s` to eliminate structural high-frequency acoustic jitter profiles before physical pipework micro-fracturing.
  * **Transient Cavitation Sentinel:** Algorithmic pressure-wave damping layers that suppress pump-induced shockwaves natively via software, stabilizing the grid manifold system.
 
+ ### ─── 🚅 06. Project Chronos: High-Speed Rail Catenary Wave Damping Matrix ───
+
+Coupled structural-aerodynamic mechanical wave tracking for high-velocity transit networks.
+
+* **45°C Thermal-Tensile Contact Line Degradation Mesh:** Tracks overhead copper contact wire expansion to forecast critical velocity propagation drops from `666.9 mph` down to `643.8 mph` under severe solar load or back-to-back train draws.
+* **0.7239 Critical Velocity Mach-Style Wave Interception:** Evaluates extreme velocity point-force vector surges to apply a software-defined active dampening modifier, stabilizing physical pantograph friction interfaces natively via code.
+* **Pantograph Contact Force Aero-Jitter Solver:** Monitors turbulent aerodynamic headwind variables to compress dynamic mechanical chatter surges up to `238.61 N`, mitigating overhead wire shearing risk.
+
+
 
 ---
 
@@ -170,6 +179,9 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 
 ### ☀️ Project Helios Modules (Thermal-Acoustic Containment) ───
 *   **`helios_resonance_telemetry.py`** ── Public telemetry matrix demonstrating 8,400 kW high-density datacenter thermal-acoustic resonance boundaries and 9.2 kHz manifold fatigue points.
+### 🚅 Project Chronos Modules (Catenary Wave Damping) ───
+*   **`chronos_catenary_telemetry.py`** ── Public telemetry matrix demonstrating 480 mph critical wave propagation ratios and 238 N storm-gust pantograph aero-chatter fatigue points.
+
 ---
 
 ## 🚀 Local Execution & Verification
@@ -182,15 +194,16 @@ chmod +x start_bench.command
 ```
 
 ### ⚙️ Integrated System Menu Map (v1.1.0):
+When executing the harness, choose your operational coordinate `[1-8]` to route to the target pipeline:
 
-When executing the harness, choose your operational coordinate `[1-7]` to route to the target pipeline:
 * **1) PROJECT ECHO** ── Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
 * **2) PROJECT TRISOLARIS** ── Runs the ACSR Transmission Line Reactance Calculator engine.
 * **3) PROJECT VULCAN** ── Runs the Frontline Clinical Staffing Shortage Matrix tracker.
 * **4) PROJECT NEPTUNE** ── Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
 * **5) PROJECT HELIOS** ── Runs the Data Centre Thermal-Acoustic Resonance Suppression models.
-* **6) GLOBAL STOREFRONT** ── Launches the GitHub Desktop Synchronized Change Panel.
-* **7) EXIT BENCH** ── Closes active console room run channels safely and locks the runway green.
+* **6) PROJECT CHRONOS** ── Runs the High-Speed Rail Catenary Wave Damping engines.
+* **7) GLOBAL STOREFRONT** ── Launches the GitHub Desktop Synchronised Change Panel.
+* **8) EXIT BENCH** ── Closes active console room run channels safely and locks the runway green.
 
 ### 🌐 Cross-Medium System Fusion (Integrated Grid & Hydraulic Balancing)
 Autonomous multi-physics engine bridging independent utility matrices to address extreme weather and storm-surge volatility.
