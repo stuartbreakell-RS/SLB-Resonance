@@ -168,7 +168,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **neptune_amp8_compliance_sentinel.py** — Processes real-time conduit structural strain data to flag asset regulatory liabilities.
 * **patch_neptune_transient.py** — v1.1.0 transient phase-stabilisation engine executing real-time counter-phase damping angles (-2.6395 rad) to neutralise pipeline surge volatility.
 
-### ─── Project Helios Modules (Thermal-Acoustic Containment) ───
+### ☀️ Project Helios Modules (Thermal-Acoustic Containment) ───
 *   **`helios_resonance_telemetry.py`** ── Public telemetry matrix demonstrating 8,400 kW high-density datacenter thermal-acoustic resonance boundaries and 9.2 kHz manifold fatigue points.
 ---
 
