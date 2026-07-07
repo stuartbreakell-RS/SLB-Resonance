@@ -67,7 +67,13 @@ Coupled structural-aerodynamic mechanical wave tracking for high-velocity transi
 * **0.7239 Critical Velocity Mach-Style Wave Interception:** Evaluates extreme velocity point-force vector surges to apply a software-defined active dampening modifier, stabilizing physical pantograph friction interfaces natively via code.
 * **Pantograph Contact Force Aero-Jitter Solver:** Monitors turbulent aerodynamic headwind variables to compress dynamic mechanical chatter surges up to `238.61 N`, mitigating overhead wire shearing risk.
 
+### 🚢 07. Project Triton: Port Logistics Container Transit Tuner
 
+Coupled structural-aerodynamic mechanical wave tracking for maritime container crane tracking stability.
+
+* **1.4745 Bottleneck Friction Elimination Mesh:** Suppresses operational quayside bottlenecks and network delays natively via code.
+* **43.83 mm Spreader Wind-Shear Jitter Solver:** Eliminates high-velocity laser sensor targeting drift down to sub-millimeter tolerances under severe coastal storm surges.
+* **Integrated Telemetry Node:** Deployed script `triton_crane_jitter.py` is mapped directly to our central orchestration platform workspace.
 
 ---
 
@@ -194,16 +200,18 @@ chmod +x start_bench.command
 ```
 
 ### ⚙️ Integrated System Menu Map (v1.1.0):
-When executing the harness, choose your operational coordinate `[1-8]` to route to the target pipeline:
+When executing the harness, choose your operational coordinate `[1-10]` to route to the target pipeline:
 
-* **1) PROJECT ECHO** ── Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
-* **2) PROJECT TRISOLARIS** ── Runs the ACSR Transmission Line Reactance Calculator engine.
-* **3) PROJECT VULCAN** ── Runs the Frontline Clinical Staffing Shortage Matrix tracker.
-* **4) PROJECT NEPTUNE** ── Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
-* **5) PROJECT HELIOS** ── Runs the Data Centre Thermal-Acoustic Resonance Suppression models.
-* **6) PROJECT CHRONOS** ── Runs the High-Speed Rail Catenary Wave Damping engines.
-* **7) GLOBAL STOREFRONT** ── Launches the GitHub Desktop Synchronised Change Panel.
-* **8) EXIT BENCH** ── Closes active console room run channels safely and locks the runway green.
+ * **1) PROJECT ECHO** — Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
+ * **2) PROJECT TRISOLARIS** — Runs the ACSR Transmission Line Reactance Calculator engine.
+ * **3) PROJECT VULCAN** — Runs the Frontline Clinical Staffing Shortage Matrix tracker.
+ * **4) PROJECT NEPTUNE** — Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
+ * **5) NEPTUNE FORECAST** — Runs the 6-Hour Time-Series Surge Predictive Engine models.
+ * **6) PROJECT HELIOS** — Runs the Data Centre Thermal-Acoustic Resonance Suppression models.
+ * **7) PROJECT CHRONOS** — Runs the High-Speed Rail Catenary Wave Damping engines.
+ * **8) PROJECT TRITON** — Runs the Crane Structural Jitter Mesh simulation engine.
+ * **9) GLOBAL STOREFRONT** — Launches the GitHub Desktop Synchronised Change Panel.
+ * **10) EXIT BENCH** — Closes active console room run channels safely and locks the runway green.
 
 ### 🌐 Cross-Medium System Fusion (Integrated Grid & Hydraulic Balancing)
 Autonomous multi-physics engine bridging independent utility matrices to address extreme weather and storm-surge volatility.

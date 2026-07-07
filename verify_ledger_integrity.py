@@ -22,7 +22,8 @@ def run_platform_integrity_pass():
         "neptune_transient_solver.py",
         "vulcan_shift_transfers.csv",
         "neptune_fidelity_ledger.csv",
-        "README.md"
+        "README.md",
+        "triton_crane_jitter.py",
     ]
     
     local_root = os.path.dirname(os.path.abspath(__file__))

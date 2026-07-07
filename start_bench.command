@@ -19,10 +19,11 @@ echo "  * 4) PROJECT NEPTUNE     - Run Hydraulic Surge Overflow Ledger"
 echo "  * 5) NEPTUNE FORECAST    - Run 6-Hour Time-Series Surge Predictive Engine"
 echo "  * 6) PROJECT HELIOS      - Run Data Centre Thermal-Acoustic Containment Matrix"
 echo "  * 7) PROJECT CHRONOS     - Run High-Speed Rail Catenary Wave Damping Matrix"
-echo "  * 8) GLOBAL STOREFRONT   - Launch GitHub Desktop Synchronised Panel"
-echo "  * 9) EXIT BENCH          - Safe Terminal Room Shutdown"
-echo "=========================================================================="
-read -p "Enter operational coordinate [1-9]: " coordinate
+echo " * 8) PROJECT TRITON    - Run Crane Structural Jitter Mesh"
+echo " * 9) GLOBAL STOREFRONT  - Launch GitHub Desktop Synchronised Panel"
+echo " * 10) EXIT BENCH        - Safe Terminal Room Shutdown"
+echo "========================================================================="
+read -p "Enter operational coordinate [1-10]: " coordinate
 case $coordinate in
     1)
         echo "[⚡] ENGAGING PROJECT ECHO MODE..."
@@ -58,15 +59,16 @@ case $coordinate in
 		echo "[🚅] ENGAGING PROJECT CHRONOS: CATENARY WAVE DAMPING ENGINE..."
 		python3 chronos_catenary_telemetry.py
 		;;
-	8)
-		echo "[⚙️] OPENING GITHUB DESKTOP INTERFACE..."
-		open -a "GitHub Desktop"
-		;;
-	9)
-		echo "[🟢] Safe Terminal Room Shutdown. Runway locked green."
-		exit 0
-		;;
-	*)
-		echo "[⚠️] Invalid coordinate selection."
-		;;
+    8)
+        echo "[★] ENGAGING PROJECT TRITON: GANTRY STRUCTURAL JITTER MESH..."
+        python3 triton_crane_jitter.py
+        ;;
+    9)
+        echo "[⚙️] OPENING GITHUB DESKTOP INTERFACE..."
+        open -a "GitHub Desktop"
+        ;;
+    10)
+        echo "[🟢] Safe Terminal Room Shutdown. Runway locked green."
+        exit 0
+        ;;
 esac
