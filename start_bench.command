@@ -19,9 +19,9 @@ echo "  * 4) PROJECT NEPTUNE     - Run Hydraulic Surge Overflow Ledger"
 echo "  * 5) NEPTUNE FORECAST    - Run 6-Hour Time-Series Surge Predictive Engine"
 echo "  * 6) PROJECT HELIOS      - Run Data Centre Thermal-Acoustic Containment Matrix"
 echo "  * 7) PROJECT CHRONOS     - Run High-Speed Rail Catenary Wave Damping Matrix"
-echo " * 8) PROJECT TRITON    - Run Crane Structural Jitter Mesh"
-echo " * 9) GLOBAL STOREFRONT  - Launch GitHub Desktop Synchronised Panel"
-echo " * 10) EXIT BENCH        - Safe Terminal Room Shutdown"
+echo "  * 8) PROJECT TRITON    - Run Crane Structural Jitter Mesh"
+echo "  * 9) GLOBAL STOREFRONT  - Launch GitHub Desktop Synchronised Panel"
+echo "  * 10) EXIT BENCH        - Safe Terminal Room Shutdown"
 echo "========================================================================="
 read -p "Enter operational coordinate [1-10]: " coordinate
 case $coordinate in
