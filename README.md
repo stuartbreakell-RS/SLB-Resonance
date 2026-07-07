@@ -185,8 +185,13 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 
 ### ☀️ Project Helios Modules (Thermal-Acoustic Containment) ───
 *   **`helios_resonance_telemetry.py`** ── Public telemetry matrix demonstrating 8,400 kW high-density datacenter thermal-acoustic resonance boundaries and 9.2 kHz manifold fatigue points.
+
 ### 🚅 Project Chronos Modules (Catenary Wave Damping) ───
 *   **`chronos_catenary_telemetry.py`** ── Public telemetry matrix demonstrating 480 mph critical wave propagation ratios and 238 N storm-gust pantograph aero-chatter fatigue points.
+
+### 🚢 Project Triton Modules (Port Logistics Tuning)
+* **`triton_crane_jitter.py`** — Public telemetry matrix demonstrating structural wind-shear mitigation down to a verified `43.83 mm` spreader tracking envelope under severe coastal storm surges.
+
 
 ---
 
