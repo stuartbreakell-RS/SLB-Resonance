@@ -24,6 +24,8 @@ def run_platform_integrity_pass():
         "neptune_fidelity_ledger.csv",
         "README.md",
         "triton_crane_jitter.py",
+        "spaceforge_marangoni_output.txt",
+
     ]
     
     local_root = os.path.dirname(os.path.abspath(__file__))
