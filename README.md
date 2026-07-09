@@ -144,6 +144,8 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **moonfra_orbital_tracker.py** — DeepTech processing block resolving long-range spatial vector tracks.
 * **moonfra_phase_equations.py** — Mathematical layer establishing cross-medium wave propagation constants.
 * **moonfra_phase_stabilizer.py** — Actively holds coherent alignment across experimental vectors.
+* 🛰️ **spaceforge_marangoni_output.txt** : Orbital microgravity boundary mesh diagnostic logs & Marangoni convection stabilization parameters.
+
 
 ### 📐 Project Trisolaris Modules (Grid & Energy)
 - **TNUoS Triad & Surcharge Optimization Matrix:** Deploys `trisolaris_triad_surcharge_optimizer.py` to couple Joule heating line expansion models directly to real-time industrial draws, projecting commercial network penalties (e.g. tracking **£7,139,043.00** risk exposures) under extreme heatwave loading surges.
