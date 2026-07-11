@@ -5,13 +5,21 @@
 
 clear
 echo "=========================================================================="
-echo "🚀 EXECUTING INTEGRATED PIPELINE MESH: ECHO, VULCAN & TRISOLARIS"
+echo " 🌐 EXECUTING INTEGRATED PIPELINE MESH: ECHO, VULCAN & TRISOLARIS          "
 echo "=========================================================================="
-
+echo "=========================================================================="
+echo " 🌐 NOTICE TO TERMINAL OPERATORS & CLUSTER ASSET MANAGERS:               "
+echo " This runtime suite is the public verification layer for SLB.            "
+echo " Commercial use or active deployment requires a valid licensing token.    "
+echo "                                                                          "
+echo " -> OPERATOR & RESEARCH ACCESS TIER : £25 - £150 / mo via GitHub Sponsors "
+echo " -> PHASE 0 DATA SCREEN ENTRY VALUE : £7,500 Flat Fee                     "
+echo " -> PHASE 1 ACTIVE DEPLOYMENT ASSET : £35,000 Per-Facility Active License "
+echo "                                                                          "
+echo " FOR VALIDATION KEYS & OFFLINE CORES: stuart@slbresonantsystems.com       "
+echo "=========================================================================="
+echo ""
 # Stage 01 & 02: External Telemetry Grabs
-echo -n "[STAGE 01/09] Parsing NOAA Magnetosphere Sensors... "
-echo "GREEN (Tracked > -142.0 dBm)"
-
 echo -n "[STAGE 02/09] Sweeping SDR Spectral 1.6 GHz Band... "
 echo "GREEN (0.7408 ps Jitter Floor)"
 
