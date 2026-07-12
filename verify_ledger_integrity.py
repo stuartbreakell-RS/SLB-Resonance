@@ -25,6 +25,8 @@ def run_platform_integrity_pass():
         "README.md",
         "triton_crane_jitter.py",
         "spaceforge_marangoni_output.txt",
+        "platonic_resonance_validator.py",
+
 
     ]
     
