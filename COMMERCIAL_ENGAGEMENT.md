@@ -7,12 +7,12 @@ This charter outlines the formal framework for transitioning from local reposito
 
 ## 🛠️ Operational Engagement Models
 
-### 1. Phase 0: Local Cluster Engineering Validation (Baseline Scan)
+### Phase 0: Local Cluster Engineering Validation (Baseline Scan)
 * **Scope:** Tailored installation of the SLB Resonant Core within a sandboxed corporate testing framework.
 * **Objective:** Verification of the 0.0201 friction floor baseline, specific hydraulic surge mitigation tolerances, or cold-chain thermal sag metrics using live client data streams.
 * **Duration:** 14-Day Controlled Sprint (Non-invasive 48-hour data screen extraction with zero operational downtime).
-* **Commercial Metric:** Flat-fee local data evaluation retainer fixed at **£7,500**.
-* **Delivery:** Secure local terminal execution report and hard proof of a verified 15% to 20% consumption floor or capacity headroom recovery before live integration begins.
+* **Commercial Metric:** Flat-fee local data evaluation retainer fixed at **£7,500 (Fully Contingent on Anomaly Discovery)**.
+* **Delivery:** Secure local terminal execution report. **If our 20-layer geometric engine fails to isolate verifiable structural redlines or network energy leaks, the evaluation fee is completely waived.**
 
 ### 2. Phase 1: Infrastructure Licensing (Operational Integration)
 * **Scope:** Production deployment of optimized modules across active operational nodes.
