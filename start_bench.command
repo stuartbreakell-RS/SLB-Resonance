@@ -75,8 +75,10 @@ case $coordinate in
         python3 triton_crane_jitter.py
         ;;
     9)
-        echo "[*] ENGAGING PLATONIC GEOMETRIC RESONANCE VALIDATOR..."
-python3 platonic_resonance_validator.py
+        echo "[*] ENGAGING PUBLIC MULTI-BAND GEOMETRIC RESONANCE VALIDATORS..."
+        python3 platonic_resonance_validator.py
+        python3 trisolaris_corona_validator.py
+        python3 trisolaris_ssr_validator.py
         ;;
     10)
         echo "[🟢] Safe Terminal Room Shutdown. Runway locked green."
