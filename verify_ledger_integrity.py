@@ -16,6 +16,8 @@ def run_platform_integrity_pass():
         "neptune_boundary_velocity.py",
         "neptune_cavitation_sentinel.py",
         "trisolaris_reactance_calculator.py",
+        "trisolaris_corona_validator.py",
+        "trisolaris_ssr_validator.py",
         "vulcan_core_mesh.py",
         "vulcan_shift_transfers.py",
         "neptune_surge_stabilizer.py",

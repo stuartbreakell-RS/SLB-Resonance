@@ -229,7 +229,7 @@ chmod +x start_bench.command
 When executing the harness, choose your operational coordinate `[1-10]` to route to the target pipeline:
 
  * **1) PROJECT ECHO** — Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
- * **2) PROJECT TRISOLARIS** — Runs the ACSR Transmission Line Reactance Calculator engine.
+ * **2) PROJECT TRISOLARIS** -- Complete Grid Package: Reactance, Corona Loss & SSR breaking core.
  * **3) PROJECT VULCAN** — Runs the Frontline Clinical Staffing Shortage Matrix tracker.
  * **4) PROJECT NEPTUNE** — Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
  * **5) NEPTUNE FORECAST** — Runs the 6-Hour Time-Series Surge Predictive Engine models.
@@ -255,8 +255,8 @@ Autonomous multi-physics engine bridging independent utility matrices to address
  * **Coordinate 6 // Project Helios Thermal-Acoustic Containment**
  * **Coordinate 7 // Project Chronos Catenary Wave Damping Matrix**
  * **Coordinate 8 // Project Triton Crane Structural Jitter Mesh**
- * **Coordinate 9 // Global Storefront Synchronised Change Panel**
- * **Coordinate 10 // Terminate Console Session**
+ * **Coordinate 9 // Platonic Multi-Band Geometric Resonance Sweep**
+ * **Coordinate 10 / Terminate Console Session**
 
 ---
 
