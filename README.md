@@ -37,6 +37,8 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
   * **Trajectory Load Coefficient Parsing:** Utilizes `trisolaris_load_parser.py` to ingest **1,000-interval real-time grid telemetry streams** to calculate precise reactive impedance constraints down to `0.006842 Ohms/km`.
   - **National Grid Constraint Optimisation Matrix:** Deploys `uk_grid_constraint_optimiser.py` to evaluate dynamic transmission boundary congestion ratios against rigid 1,500 MW corridor thresholds, tracking multi-million-pound system constraint surcharges.
   * **Thermodynamic Line Sag Suppression:** Deploys `trisolaris_reactance_calculator.py` to prove complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
+  * **Resource Conversion Matrix:** Deploys `trisolaris_impact_calculator.py` to mathematically track raw copper/aluminum metal conservation limits and calculate physical greenfield grid corridor acreage saved from clearing.
+
 
 
 ### 🌊 04. Project Neptune: UK Water Infrastructure Surge Calibration Matrix
@@ -49,6 +51,8 @@ A hydraulic surge and fluid velocity allocation framework engineered to mitigate
   * **Fidelity Export Ledger:** Implements an automated, immutable CSV logging protocol (`neptune_fidelity_ledger.csv`) to record all audited system variations with precise timestamps.
   * **Dual-Axis Physical Stress Plotting:** Coordinates structural safety charts through `neptune_predictive_analyzer.py` to map real-time pressure limits down to the exact decimal point.
   * **Transient Phase-Stabilisation Engine:** Deploys `patch_neptune_transient.py` to execute real-time counter-phase damping angles (`-2.6395 rad`) to neutralise pipeline surge volatility at the Asda Omega South node.
+  * **Hydraulic Resource Matrix:** Deploys `neptune_impact_calculator.py` to quantify high-pressure steel fatigue suppression factors, generating exact physical tonnage outputs for structural asset preservation and carbon footprint reduction.
+
 
 ### ☀️ 05. Project Helios: Data Centre Thermal-Acoustic Resonance Suppression Matrix ───
 
@@ -92,7 +96,7 @@ Theoretical geometric wave-mechanics layer designed to model structural feedback
 
 ## 📊 Live Universal System Telemetry Bounds
 
-All core cross-directory pipelines are monitored via a unified 7-option root shell diagnostic platform harness (`start_bench.command` v1.0.9):
+All core cross-directory pipelines are monitored via a unified 12-option root shell diagnostic platform harness (`start_bench.command` v1.7.0).
 
 * **Combined System Throughput Peak:** 97.4219% Complete
 * **Base Network Jitter Floor:** 0.7408 ps (Atomic Phase Locked)
@@ -167,6 +171,8 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks programmatically.
 * **trisolaris_triad_surcharge_optimizer.py** — Computes financial network penalty exposure indexes during peak grid load windows.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks and boundary phase-angle drift programmatically.
+* **trisolaris_impact_calculator.py** — Automated grid optimization metrics engine mapping aluminum conductor conservation and greenfield acreage protection.
+
 
 ### 🏥 Project Vulcan Modules (Frontline Clinical Logistics)
 * **vulcan_allocation_matrix.py** — Handles multi-facility medical staffing and resource priority queues.
@@ -197,6 +203,8 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **neptune_infiltration_mesh.py** — Calculates active volumetric rainfall infiltration coefficients to dynamically re-calibrate subsurface acoustic waveguide propagation velocity across regional assets.
 * **neptune_amp8_compliance_sentinel.py** — Processes real-time conduit structural strain data to flag asset regulatory liabilities.
 * **patch_neptune_transient.py** — v1.1.0 transient phase-stabilisation engine executing real-time counter-phase damping angles (-2.6395 rad) to neutralise pipeline surge volatility.
+* **neptune_impact_calculator.py** — Programmatic multi-physics calculation engine tracking structural concrete and high-grade steel preservation tonnages.
+
 
 ### ☀️ Project Helios Modules (Thermal-Acoustic Containment) ───
 *   **`helios_resonance_telemetry.py`** ── Public telemetry matrix demonstrating 8,400 kW high-density datacenter thermal-acoustic resonance boundaries and 9.2 kHz manifold fatigue points.
@@ -218,26 +226,28 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 
 ## 🚀 Local Execution & Verification
 
-To initialize the 7-option root shell diagnostic platform harness and verify local system integrity:
+To initialize the 12-option root shell diagnostic platform harness and verify local system integrity:
 
 ```bash
 chmod +x start_bench.command
 ./start_bench.command
 ```
 
-### ⚙️ Integrated System Menu Map (v1.1.0):
-When executing the harness, choose your operational coordinate `[1-10]` to route to the target pipeline:
+### 🌐 Integrated System Menu Map (v1.7.0):
+When executing the harness, choose your operational coordinate `[1-12]` to route to the target pipeline:
 
- * **1) PROJECT ECHO** — Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
- * **2) PROJECT TRISOLARIS** -- Complete Grid Package: Reactance, Corona Loss & SSR breaking core.
- * **3) PROJECT VULCAN** — Runs the Frontline Clinical Staffing Shortage Matrix tracker.
- * **4) PROJECT NEPTUNE** — Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
- * **5) NEPTUNE FORECAST** — Runs the 6-Hour Time-Series Surge Predictive Engine models.
- * **6) PROJECT HELIOS** — Runs the Data Centre Thermal-Acoustic Resonance Suppression models.
- * **7) PROJECT CHRONOS** — Runs the High-Speed Rail Catenary Wave Damping engines.
- * **8) PROJECT TRITON** — Runs the Crane Structural Jitter Mesh simulation engine.
- * **9) GLOBAL STOREFRONT** -- Launches GitHub Sync panel with live Platonic Validation Mesh.
- * **10) EXIT BENCH** — Closes active console room run channels safely and locks the runway green.
+* **1) PROJECT ECHO** — Runs the 9-Stage Diagnostics & DeepTech Sweep modules.
+* **2) PROJECT TRISOLARIS** — Complete Grid Package: Reactance, Corona Loss & SSR breaking core.
+* **3) PROJECT VULCAN** — Runs the Frontline Clinical Staffing Shortage Matrix tracker.
+* **4) PROJECT NEPTUNE** — Runs the Hydraulic Surge Overflow Spreadsheet Ledger scripts.
+* **5) NEPTUNE FORECAST** — Runs the 6-Hour Time-Series Surge Predictive Engine models.
+* **6) PROJECT HELIOS** — Runs the Data Centre Thermal-Acoustic Resonance Suppression models.
+* **7) PROJECT CHRONOS** — Runs the High-Speed Rail Catenary Wave Damping engines.
+* **8) PROJECT TRITON** — Runs the Crane Structural Jitter Mesh simulation engine.
+* **9) PLATONIC GEOMETRIC MESH** — Run Public Geometric Resonance Validator.
+* **10) NEPTUNE METRICS** — Run Environmental Impact Calculator for fluid networks.
+* **11) TRISOLARIS METRICS** — Run Grid Thermal Impact Calculator for transmission networks.
+* **12) EXIT BENCH** — Closes active console room run channels safely and locks the runway green.
 
 ### 🌐 Cross-Medium System Fusion (Integrated Grid & Hydraulic Balancing)
 Autonomous multi-physics engine bridging independent utility matrices to address extreme weather and storm-surge volatility.
@@ -245,18 +255,21 @@ Autonomous multi-physics engine bridging independent utility matrices to address
 - **echo_infrastructure_fuser.py** — Coordinates concurrent real-time constraints from Project Trisolaris (ACSR line thermal sag thresholds) and Project Neptune (hydraulic channel flow capacity metrics).
 - **Dynamic Variable Harmonisation** — Automatically processes localised network stress deltas over 19,589 diagnostic time-steps, natively enforcing a strict 99.9907% grid phase coherence standard while compressing micro-vibrational jitter floors down to 0.7408 ps under peak summer meteorological loads.
 * **Thermal-Hydraulic Grid Optimization:** Intercepts peak silicon load spikes from Project Helios and cross-references localized utility grid constraints to safely throttle or redistribute multi-megawatt computing surges natively via software.
-### ─── Integrated System Coordinate Map (v1.1.0) ───
 
- * **Coordinate 1 // Advanced Core Signal Array**
- * **Coordinate 2 // Project Trisolaris Base**
- * **Coordinate 3 // Project Trisolaris Weather Mesh Pass**
- * **Coordinate 4 // Project Vulcan Core Stack**
- * **Coordinate 5 // Project Neptune Hydraulic Surge Registry**
- * **Coordinate 6 // Project Helios Thermal-Acoustic Containment**
- * **Coordinate 7 // Project Chronos Catenary Wave Damping Matrix**
- * **Coordinate 8 // Project Triton Crane Structural Jitter Mesh**
- * **Coordinate 9 // Platonic Multi-Band Geometric Resonance Sweep**
- * **Coordinate 10 / Terminate Console Session**
+### 🌐 Integrated System Coordinate Map (v1.7.0)
+
+* **Coordinate 1 // Advanced Core Signal Array**
+* **Coordinate 2 // Project Trisolaris Base**
+* **Coordinate 3 // Project Vulcan Core Stack**
+* **Coordinate 4 // Project Neptune Hydraulic Surge Registry**
+* **Coordinate 5 // Neptune Forecast Surge Predictive Engine**
+* **Coordinate 6 // Project Helios Thermal-Acoustic Containment**
+* **Coordinate 7 // Project Chronos Catenary Wave Damping Matrix**
+* **Coordinate 8 // Project Triton Crane Structural Jitter Mesh**
+* **Coordinate 9 // Platonic Multi-Band Geometric Resonance Sweep**
+* **Coordinate 10 // Project Neptune Environmental Impact Metrics**
+* **Coordinate 11 // Project Trisolaris Grid Thermal Impact Metrics**
+* **Coordinate 12 // Terminate Console Session**
 
 ---
 

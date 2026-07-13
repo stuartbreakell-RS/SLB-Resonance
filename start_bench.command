@@ -23,16 +23,18 @@ echo "                                                                          
 echo " FOR VALIDATION KEYS & OFFLINE CORES: stuart@slbresonantsystems.com       "
 echo "=========================================================================="
 echo "Choose operational coordinate target node:"
-echo "  * 1) PROJECT ECHO        - Run Diagnostics & Signal Tracking Engines"
-echo "  * 2) PROJECT TRISOLARIS  - Run ACSR Transmission Line Reactance Engine"
-echo "  * 3) PROJECT VULCAN      - Run Frontline Clinical Staffing Shortage Matrix"
-echo "  * 4) PROJECT NEPTUNE     - Run Hydraulic Surge Overflow Ledger"
-echo "  * 5) NEPTUNE FORECAST    - Run 6-Hour Time-Series Surge Predictive Engine"
-echo "  * 6) PROJECT HELIOS      - Run Data Centre Thermal-Acoustic Containment Matrix"
-echo "  * 7) PROJECT CHRONOS     - Run High-Speed Rail Catenary Wave Damping Matrix"
-echo "  * 8) PROJECT TRITON      - Run Crane Structural Jitter Mesh"
-echo "  * 9) PLATONIC GEOMETRIC MESH - Run Public Geometric Resonance Validator"
-echo "  * 10) EXIT BENCH         - Safe Terminal Room Shutdown"
+echo " *  1) PROJECT ECHO           - Run Diagnostics & Signal Tracking Engines"
+echo " *  2) PROJECT TRISOLARIS      - Run ACSR Transmission Line Reactance Engine"
+echo " *  3) PROJECT VULCAN          - Run Frontline Clinical Staffing Shortage Matrix"
+echo " *  4) PROJECT NEPTUNE         - Run Hydraulic Surge Overflow Ledger"
+echo " *  5) NEPTUNE FORECAST        - Run 6-Hour Time-Series Surge Predictive Engine"
+echo " *  6) PROJECT HELIOS          - Run Data Centre Thermal-Acoustic Containment Matrix"
+echo " *  7) PROJECT CHRONOS         - Run High-Speed Rail Catenary Wave Damping Matrix"
+echo " *  8) PROJECT TRITON          - Run Crane Structural Jitter Mesh"
+echo " *  9) PLATONIC GEOMETRIC MESH - Run Public Geometric Resonance Validator"
+echo " * 10) NEPTUNE METRICS        - Run Environmental Impact Calculator"
+echo " * 11) TRISOLARIS METRICS     - Run Grid Thermal Impact Calculator"
+echo " * 12) EXIT BENCH             - Safe Terminal Room Shutdown"
 echo "========================================================================="
 read -p "Enter operational coordinate [1-10]: " coordinate
 case $coordinate in
@@ -81,7 +83,18 @@ case $coordinate in
         python3 trisolaris_ssr_validator.py
         ;;
     10)
-        echo "[🟢] Safe Terminal Room Shutdown. Runway locked green."
+        echo "   ENGAGING PROJECT NEPTUNE IMPACT CALCULATOR..."
+        python3 neptune_impact_calculator.py
+        ;;
+    11)
+        echo "   ENGAGING PROJECT TRISOLARIS IMPACT CALCULATOR..."
+        python3 trisolaris_impact_calculator.py
+        ;;
+    12)
+        echo "🟢 Safe Terminal Room Shutdown. Runway locked green."
         exit 0
+        ;;
+    *)
+        echo "Invalid selection sequence."
         ;;
 esac
