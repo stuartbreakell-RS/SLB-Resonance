@@ -26,6 +26,7 @@ This charter outlines the formal framework for transitioning from local reposito
 #### 🌊 Project Neptune: Hydraulic & Fluid Infrastructure Balance
 * **Application:** Active software suppression of multi-vector fluid transients, kinetic wall shear stress spikes, and acoustic cavitation boundaries across regional utility networks.
 * **Mechanism:** Utilizing `neptune_transient_solver.py` for high-speed acoustic localization and deploying `patch_neptune_transient.py` to calculate precise counter-phase damping angles (`-2.6395 rad`). Real-time turbulent boundary profiling (`neptune_boundary_velocity.py`) and dynamic cavitation safety indexing (`neptune_cavitation_sentinel.py`) eliminate fluid structural risks natively without capital-intensive hardware retrofitting.
+  ↳ *Metric Conversion:* Leverages `neptune_impact_calculator.py` to mathematically verify structural concrete and high-grade steel preservation tonnages per regional facility asset.
 
 #### 🏥 Project Vulcan: Frontline Clinical Intake and Triage Flow Balance
 * **Application:** Pre-emptive workload insulation and flow capacity balancing to protect regional frontline hospital networks from structural capacity failure.
@@ -34,6 +35,7 @@ This charter outlines the formal framework for transitioning from local reposito
 #### ⚡ Project Trisolaris: ACSR Transmission Line Capacity Matrix
 * **Application:** Continuous overhead conductor thermal sag management and inductive reactance compensation during industrial peak-demand windows.
 * **Mechanism:** Binds coupled thermodynamic calculation models directly to high-voltage transmission geometries using `trisolaris_reactance_calculator.py`. It tracks thermal expansion multipliers up to `1.001500` under simulated solar flux and proves complete line sag containment down to a microscopic `0.0071 mm` clearance reserve boundary.
+  ↳ *Metric Conversion:* Leverages `trisolaris_impact_calculator.py` to map aluminum/copper conductor preservation metrics and greenfield corridor acreage protection factors.
 #### 🏗️ Project Triton: Quayside Logistics Cantilever Jitter Control
 * **Application**: Dynamic structural wave suppression for maritime container crane gantries under peak environmental loads.
 * **Mechanism**: Coded via `triton_crane_jitter.py` to continuously isolate crane cantilever resonance metrics. Actively tracks a 1.4745 structural bottleneck factor and clamps structural deflection limits directly down to a 43.83 mm boundary under intense 38-knot environmental gale force surges, preventing quayside asset degradation natively.
