@@ -36,6 +36,7 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
   * **Thermodynamic Conductor Envelope Forecasting:** Deploys `trisolaris_thermal_envelope.py` to calculate structural physical expansion factors up to **1.001500** under simulated 34.5°C peak heatwave loads.
   * **Trajectory Load Coefficient Parsing:** Utilizes `trisolaris_load_parser.py` to ingest **1,000-interval real-time grid telemetry streams** to calculate precise reactive impedance constraints down to `0.006842 Ohms/km`.
   - **National Grid Constraint Optimisation Matrix:** Deploys `uk_grid_constraint_optimiser.py` to evaluate dynamic transmission boundary congestion ratios against rigid 1,500 MW corridor thresholds, tracking multi-million-pound system constraint surcharges.
+  * **Automated Phase Shear Test Harness:** Integrates 'uk_grid_constraint_optimiser_test.py' to run continuous multi-vector validation passes, trapping critical 50 MW battery storage line redlines natively before deployment.
   * **Thermodynamic Line Sag Suppression:** Deploys `trisolaris_reactance_calculator.py` to prove complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
   * **Resource Conversion Matrix:** Deploys `trisolaris_impact_calculator.py` to mathematically track raw copper/aluminum metal conservation limits and calculate physical greenfield grid corridor acreage saved from clearing.
 
@@ -172,6 +173,8 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **trisolaris_triad_surcharge_optimizer.py** — Computes financial network penalty exposure indexes during peak grid load windows.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks and boundary phase-angle drift programmatically.
 * **trisolaris_impact_calculator.py** — Automated grid optimization metrics engine mapping aluminum conductor conservation and greenfield acreage protection.
+* **uk_grid_constraint_optimiser_test.py** - Automated multi-vector validation pass trapping critical 50 MW battery storage line redlines natively.
+
 
 
 ### 🏥 Project Vulcan Modules (Frontline Clinical Logistics)
