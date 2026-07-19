@@ -5,20 +5,24 @@ This charter outlines the formal framework for transitioning from local reposito
 
 ---
 
-## 🛠️ Operational Engagement Models
+## Operational Engagement Models
 
 ### Phase 0: Local Cluster Engineering Validation (Baseline Scan)
 * **Scope:** Tailored installation of the SLB Resonant Core within a sandboxed corporate testing framework.
 * **Objective:** Verification of the 0.0201 friction floor baseline, specific hydraulic surge mitigation tolerances, or cold-chain thermal sag metrics using live client data streams.
 * **Duration:** 14-Day Controlled Sprint (Non-invasive 48-hour data screen extraction with zero operational downtime).
-* **Commercial Metric:** Flat-fee local data evaluation retainer fixed at **£7,500 (Fully Contingent on Anomaly Discovery)**.
+* **Commercial Metric:** Flat-fee local data evaluation retainer fixed at **£7,500** (Fully Contingent on Anomaly Discovery).
 * **Delivery:** Secure local terminal execution report. **If our 20-layer geometric engine fails to isolate verifiable structural redlines or network energy leaks, the evaluation fee is completely waived.**
 
-### 2. Phase 1: Infrastructure Licensing (Operational Integration)
+### Phase 1: Infrastructure Licensing (Operational Integration)
 * **Scope:** Production deployment of optimized modules across active operational nodes.
 * **Parameters:** Permanent multi-physics software deployment license fixed at **£35,000** per active asset node. Strictly bound by our non-exclusive, asset-use restricted licensing architecture.
 * **Integration:** Standalone, decoupled Python integration avoiding enterprise software dependencies or legacy environment friction. Delivered directly to operational command dashboards.
 
+### Phase 2: Enterprise Grid License (Asset-Displacement Vector)
+* **Scope:** Regional network corridor tracking designed explicitly to displace capital-heavy hardware expenditure.
+* **Parameters:** Custom multi-node facility alignment scaled directly to system footprint volume (backed by Step 10 Financial Resolvers).
+* **Commercial Metric:** Tiered custom corporate license scaled to infrastructure size, calculated on a percentage of active capital hardware cost displacement.
 ---
 
 ## 🎛️ Active Operational Corridors
