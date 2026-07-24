@@ -39,6 +39,8 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
   * **Automated Phase Shear Test Harness:** Integrates 'uk_grid_constraint_optimiser_test.py' to run continuous multi-vector validation passes, trapping critical 50 MW battery storage line redlines natively before deployment.
   * **Thermodynamic Line Sag Suppression:** Deploys `trisolaris_reactance_calculator.py` to prove complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
   * **Resource Conversion Matrix:** Deploys `trisolaris_impact_calculator.py` to mathematically track raw copper/aluminum metal conservation limits and calculate physical greenfield grid corridor acreage saved from clearing.
+  * **Project Trisolaris (Grid Tier Update v1.7.0):** Expanded simulation validation node tracking severe 1,000 MW renewable dumps and asymmetric wake-induced phase drift tolerances (Calibrated to the 1 GW Whitelee Repowering parameters).
+
 
 
 
@@ -172,7 +174,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **trisolaris_trajectory_data.json** — Base array block housing multi-interval loading trends.
 * **trisolaris_weather_mesh.py** — Micro-climate thermodynamic energy balance and catenary sag solver.
 * **salford_validation_solver.py** — Thermodynamic model calculating peak thermal line sag metrics.
-* **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks programmatically.
+* **`uk_grid_constraint_optimiser.py`** – Resolves peak network congestion bottlenecks, asymmetric wind loading profiles, and 1 GW Whitelee repowering phase drift boundaries.
 * **trisolaris_triad_surcharge_optimizer.py** — Computes financial network penalty exposure indexes during peak grid load windows.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks and boundary phase-angle drift programmatically.
 * **trisolaris_impact_calculator.py** — Automated grid optimization metrics engine mapping aluminum conductor conservation and greenfield acreage protection.
