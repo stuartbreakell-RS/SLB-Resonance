@@ -266,7 +266,7 @@ Autonomous multi-physics engine bridging independent utility matrices to address
 - **Dynamic Variable Harmonisation** — Automatically processes localised network stress deltas over 19,589 diagnostic time-steps, natively enforcing a strict 99.9907% grid phase coherence standard while compressing micro-vibrational jitter floors down to 0.7408 ps under peak summer meteorological loads.
 * **Thermal-Hydraulic Grid Optimization:** Intercepts peak silicon load spikes from Project Helios and cross-references localized utility grid constraints to safely throttle or redistribute multi-megawatt computing surges natively via software.
 
-### 🌐 Integrated System Coordinate Map (v1.7.0)
+### 🌐 Integrated System Menu & Coordinate Map (v1.7.0)
 
 *   **Coordinate 1 // Advanced Core Signal Array**
 *   **Coordinate 2 // Project Trisolaris Base (Energy Grid)**
