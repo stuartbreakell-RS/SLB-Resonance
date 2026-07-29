@@ -8,7 +8,7 @@ This charter outlines the formal framework for transitioning from local reposito
 ## Operational Engagement Models
 
 ### Phase 0: Local Cluster Engineering Validation (Baseline Scan)
-* **Scope:** Tailored installation of the SLB Resonant Core within a sandboxed corporate testing framework.
+* **Scope:** Tailored installation of SLB Resonance within a sandbox corporate testing framework.
 * **Objective:** Verification of the 0.0201 friction floor baseline, specific hydraulic surge mitigation tolerances, or cold-chain thermal sag metrics using live client data streams.
 * **Duration:** 14-Day Controlled Sprint (Non-invasive 48-hour data screen extraction with zero operational downtime).
 * **Commercial Metric:** Flat-fee local data evaluation retainer fixed at **£7,500** (Fully Contingent on Anomaly Discovery).
