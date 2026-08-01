@@ -50,7 +50,7 @@ This charter outlines the formal framework for transitioning from local reposito
 
 #### 🔥 Project Helios: Data Center Thermal Load Deflection
 * **Application**: Predictive multi-vector thermal resonance management inside enterprise server infrastructure.
-* **Mechanism**: Utilizes `helios_thermal_resonance.py` to map multi-physics thermal flux propagation across server matrix nodes. The software identifies localized heating hotspots and applies predictive wave-suppression algorithms to deflect thermal load concentration natively, maximizing processing throughput without over-specifying mechanical cooling hardware.
+* **Mechanism**: Utilizes `helios_thermal_resonance.py` to map multi-physics thermal flux propagation across server matrix nodes. The software identifies localized heating hotspots and applies predictive wave suppression algorithms to deflect thermal load concentration natively, maximizing processing throughput without over-specifying mechanical cooling hardware.
 
 
 #### 📊 Automated Multi-Physics Telemetry Generation

@@ -22,7 +22,7 @@ Autonomous high-resolution spectral monitoring and spaceborne path tracking infr
 *   **Live Traffic Velocity Analytics:** Embedded conversion module tracking repository interaction depth, displaying a stable `66.95%` conversion velocity and a `62.03%` unique intent deployment footprint.
 
 ### 🏥 02. Project Vulcan: Frontline Clinical Intake Insulation Matrix
-A localized data resource-routing allocation framework built to shield frontline regional health units from structural waste.
+A localised data resource-routing allocation framework built to shield frontline regional health units from structural waste.
   * **Parabolic Triage Intake Mesh:** Runs a continuous 60-minute interval integration mesh across regional clinic metrics (Warrington, Salford, Halton, Cheshire East) to map cumulative incoming client pressure fields.
   * **Incident Priority Triage Alerts:** Real-time JSON telemetry stream generator (`vulcan_live_footprint.json`) coupled to an autonomous notification alert loop that automatically dispatches emergency resource buffers the microsecond a node crosses its `1.15` structural bottleneck threshold.
   * **Dynamic Emergency Resource Re-Balancing:** Deploys `vulcan_dynamic_balancer.py` to continuously audit active NHS intake channels, calculating precise resource deflection actions (e.g. routing **772.40 MW** and **1186.73 MW** emergency buffers) to insulate overloaded clinical networks from cascading failure.
@@ -34,7 +34,7 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
   * **Reactive Power Compensation:** Integrates live phase-angle velocity tracking (+0.0142 to -0.0163 rad) to absorb and stabilize reactive voltage fluctuations under heavy industrial draws.
   * **Salford Thermodynamic Sag Validation Solver:** A mathematical validation model proving complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
   * **Thermodynamic Conductor Envelope Forecasting:** Deploys `trisolaris_thermal_envelope.py` to calculate structural physical expansion factors up to **1.001500** under simulated 34.5°C peak heatwave loads.
-  * **Trajectory Load Coefficient Parsing:** Utilizes `trisolaris_load_parser.py` to ingest **1,000-interval real-time grid telemetry streams** to calculate precise reactive impedance constraints down to `0.006842 Ohms/km`.
+  * **Trajectory Load Coefficient Parsing:** Utilises `trisolaris_load_parser.py` to ingest **1,000-interval real-time grid telemetry streams** to calculate precise reactive impedance constraints down to `0.006842 Ohms/km`.
   - **National Grid Constraint Optimisation Matrix:** Deploys `uk_grid_constraint_optimiser.py` to evaluate dynamic transmission boundary congestion ratios against rigid 1,500 MW corridor thresholds, tracking multi-million-pound system constraint surcharges.
   * **Automated Phase Shear Test Harness:** Integrates 'uk_grid_constraint_optimiser_test.py' to run continuous multi-vector validation passes, trapping critical 50 MW battery storage line redlines natively before deployment.
   * **Thermodynamic Line Sag Suppression:** Deploys `trisolaris_reactance_calculator.py` to prove complete thermal line sag suppression down to a microscopic `0.0071 mm` retained conductor sag limit under intense Joule power dissipation profiles.
@@ -46,11 +46,11 @@ Coupled thermodynamic multi-physics modeling for extreme load containment.
 
 ### 🌊 04. Project Neptune: UK Water Infrastructure Surge Calibration Matrix
 
-A hydraulic surge and fluid velocity allocation framework engineered to mitigate infrastructure overflow thresholds natively through phase stabilization.
+A hydraulic surge and fluid velocity allocation framework engineered to mitigate infrastructure overflow thresholds natively through phase stabilisation.
 
-  * **Dynamic Hydraulic Back-Pressure Damping:** Ingests live JSON utility metrics via `neptune_live_footprint.json` to track localized pipe strain and execute real-time phase shift angles.
-  * **Inverse Transient Anomaly Detection:** Deploys high-speed time-of-flight localization via 'neptune_transient_solver.py' utilizing a rigid **1480.26 m/s acoustic waveguide speed** to pinpoint sub-surface structural cracks.
-  * **Pipeline Dynamics Stress Modulation:** Utilizes `neptune_scenario_generator.py` to automatically model sudden pump trips and volatile grid shifts up to **150.9 PSI** to stress-test regional infrastructure loops.
+  * **Dynamic Hydraulic Back-Pressure Damping:** Ingests live JSON utility metrics via `neptune_live_footprint.json` to track localised pipe strain and execute real-time phase shift angles.
+  * **Inverse Transient Anomaly Detection:** Deploys high-speed time-of-flight localisation via 'neptune_transient_solver.py' utilising a rigid **1480.26 m/s acoustic waveguide speed** to pinpoint sub-surface structural cracks.
+  * **Pipeline Dynamics Stress Modulation:** Utilises `neptune_scenario_generator.py` to automatically model sudden pump trips and volatile grid shifts up to **150.9 PSI** to stress-test regional infrastructure loops.
   * **Fidelity Export Ledger:** Implements an automated, immutable CSV logging protocol (`neptune_fidelity_ledger.csv`) to record all audited system variations with precise timestamps.
   * **Dual-Axis Physical Stress Plotting:** Coordinates structural safety charts through `neptune_predictive_analyzer.py` to map real-time pressure limits down to the exact decimal point.
   * **Transient Phase-Stabilisation Engine:** Deploys `patch_neptune_transient.py` to execute real-time counter-phase damping angles (`-2.6395 rad`) to neutralise pipeline surge volatility at the Asda Omega South node.
@@ -64,14 +64,14 @@ A hydraulic surge and fluid velocity allocation framework engineered to mitigate
  * **8,400 kW AI Cluster Surcharge Integration:** Dynamically monitors peak silicon volumetric power dissipation loads to forecast critical core thermal boundaries.
  * **Rayleigh-Plesset Bubble Dynamics Solver:** Deploys `helios_resonance_telemetry.py` to calculate secondary loop mass flow scaling up to `221.05 kg/s` to catch fluid phase changes early.
  * **9.2 kHz Manifold Resonance Interception:** Isolates turbulent flow velocities up to `108.44 m/s` to eliminate structural high-frequency acoustic jitter profiles before physical pipework micro-fracturing.
- * **Transient Cavitation Sentinel:** Algorithmic pressure-wave damping layers that suppress pump-induced shockwaves natively via software, stabilizing the grid manifold system.
+ * **Transient Cavitation Sentinel:** Algorithmic pressure-wave damping layers that suppress pump-induced shockwaves natively via software, stabilising the grid manifold system.
 
  ### 🚅 06. Project Chronos: High-Speed Rail Catenary Wave Damping Matrix ───
 
 Coupled structural-aerodynamic mechanical wave tracking for high-velocity transit networks.
 
 * **45°C Thermal-Tensile Contact Line Degradation Mesh:** Tracks overhead copper contact wire expansion to forecast critical velocity propagation drops from `666.9 mph` down to `643.8 mph` under severe solar load or back-to-back train draws.
-* **0.7239 Critical Velocity Mach-Style Wave Interception:** Evaluates extreme velocity point-force vector surges to apply a software-defined active dampening modifier, stabilizing physical pantograph friction interfaces natively via code.
+* **0.7239 Critical Velocity Mach-Style Wave Interception:** Evaluates extreme velocity point-force vector surges to apply a software-defined active dampening modifier, stabilising physical pantograph friction interfaces natively via code.
 * **Pantograph Contact Force Aero-Jitter Solver:** Monitors turbulent aerodynamic headwind variables to compress dynamic mechanical chatter surges up to `238.61 N`, mitigating overhead wire shearing risk.
 
 ### 🚢 07. Project Triton: Port Logistics Container Transit Tuner
@@ -92,11 +92,11 @@ Standalone multi-physics validation engine deployed to map non-linear incompress
 ### 🛡️ 09. Project Aegis: DeepTech Kinetic Harmonics & Shielding Matrix —
 Standalone multi-physics shielding infrastructure engineered to suppress destructive signal anomalies and mechanical tool chatter waves natively via code.
 
-* **`kinetic_harmonics_fuser.py`** — Public validation script analyzing high-frequency automated spindle approach thresholds. Tracks real-time micro-chatter vibration acceleration metrics down to the micron while deploying geometric wave-suppression arrays to stabilize the contact boundary layer natively.
+* **`kinetic_harmonics_fuser.py`** — Public validation script analysing high-frequency automated spindle approach thresholds. Tracks real-time micro-chatter vibration acceleration metrics down to the micron while deploying geometric wave-suppression arrays to stabilise the contact boundary layer natively.
 
 ### ### 🌌 Multi-Band Platonic Resonance Layer
 Theoretical geometric wave-mechanics layer designed to model structural feedback parameters entirely within the code environment.
-*   **Topological Mesh Scans**: Utilizes `platonic_resonance_validator.py` to map standard three-dimensional solids (Tetrahedron, Hexahedron, Octahedron, Dodecahedron, Icosahedron) to coordinate constraints.
+*   **Topological Mesh Scans**: Utilises `platonic_resonance_validator.py` to map standard three-dimensional solids (Tetrahedron, Hexahedron, Octahedron, Dodecahedron, Icosahedron) to coordinate constraints.
 *   **Base-60 Frequency Evaluation**: Cross-references topological vertices, faces, and edges against a classic base-60 mathematical scalar.
 *   **Schumann Grounding Intercept**: Links spatial ratios directly to fundamental 7.83 Hz resonance baselines to verify structural simulation bounds without local deployment footprints.
 
@@ -177,7 +177,7 @@ All modules are decoupled, high-fidelity Python structures engineered to execute
 * **`uk_grid_constraint_optimiser.py`** – Resolves peak network congestion bottlenecks, asymmetric wind loading profiles, and 1 GW Whitelee repowering phase drift boundaries.
 * **trisolaris_triad_surcharge_optimizer.py** — Computes financial network penalty exposure indexes during peak grid load windows.
 * **uk_grid_constraint_optimiser.py** — Resolves peak network congestion bottlenecks and boundary phase-angle drift programmatically.
-* **trisolaris_impact_calculator.py** — Automated grid optimization metrics engine mapping aluminum conductor conservation and greenfield acreage protection.
+* **trisolaris_impact_calculator.py** — Automated grid optimisation metrics engine mapping aluminum conductor conservation and greenfield acreage protection.
 * **uk_grid_constraint_optimiser_test.py** - Automated multi-vector validation pass trapping critical 50 MW battery storage line redlines natively.
 
 ### 🏥 Project Vulcan Modules (Frontline Clinical Logistics)
